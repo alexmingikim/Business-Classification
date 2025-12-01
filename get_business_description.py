@@ -5,7 +5,7 @@ from openai import OpenAI
 client = OpenAI()
 
 # Loop through numbered CSVs
-for i in range(2, 6):  # 0001 → 0005
+for i in range(61, 71):  # 0001 → 0005
     input_file = f"raw_company_names/companies_{i:04d}.csv"
     output_file = f"out_business_description/business_descriptions_{i:04d}.csv"
 
@@ -21,7 +21,7 @@ for i in range(2, 6):  # 0001 → 0005
             if row:
                 company_names.append(row[0])
 
-    # ---- STEP 2: Prompt template ----
+    # ---- STEP 2: Prompt ----
     instruction = """
     You will receive a list of company names.
     For each company, return a CSV with two columns:

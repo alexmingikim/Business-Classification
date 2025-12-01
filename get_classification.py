@@ -8,7 +8,7 @@ client = OpenAI()
 # ---- BIC CODE INPUT FILE ----
 bic_file = "bic_codes.csv"
 
-# ---- STEP 1: Load BIC descriptions and codes (once) ----
+# ---- STEP 1: Load BIC descriptions and codes ----
 bic_industries = []
 bic_description_lookup = {}   # for looking up industry description by code
 
@@ -28,16 +28,16 @@ bic_text = "\n".join([f"{i['BIC_CODE']} --- {i['BIC_DESC']}" for i in bic_indust
 instruction = """
 You will receive:
 1. A company's business model description.
-2. A list of industries with their respective BIC codes.
+2. A list of BIC codes and the industry classifications they present.
 
 Your task:
-- Match the company to the most appropriate industry (primary industry classification).
-- You MUST select one industry from the provided list.
+- Consider all BIC codes and match the company to the most appropriate BIC code based on the business model description.
+- You MUST select one BIC code from the provided list.
 - If classification cannot be made, set code to "Could not be classified".
 - If company descriptions are duplicated, then return the same codes.
 
 Rules:
-- Use business model description only to make classification.
+- Interpret the entire business model description as a whole to make the classification.
 - The code must only come from the provided lists.
 - Do NOT guess outside the list.
 
@@ -50,7 +50,7 @@ Return ONLY a single JSON object, nothing else, with exactly these keys:
 """
 
 # ---- Loop over multiple files ----
-for i in range(2, 6):  # 0001 → 0005
+for i in range(51, 61):  # 0001 → 0005
     company_file = f"out_business_description/business_descriptions_{i:04d}.csv"
     output_file = f"out_classification/bic_classification_{i:04d}.csv"
 
@@ -96,7 +96,7 @@ for i in range(2, 6):  # 0001 → 0005
                 )
 
                 response = client.responses.create(
-                    model="gpt-5-nano",  # nano is best for this task
+                    model="gpt-5-mini",  # changed to mini
                     input=prompt
                 )
 
