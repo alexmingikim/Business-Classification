@@ -1,1 +1,5 @@
+archive
+out_business_description/*.csv
+out_classification/*.csv
+raw_company_names/*.csv
 venv

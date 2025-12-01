@@ -1,0 +1,2805 @@
+﻿BIC_CODE,BIC_DESC
+A011110,Ornamental plant growing
+A011120,Seedling growing nec
+A011210,Fruit tree nursery operation
+A011220,"Nursery (flower, shrubs, ornamental trees) operation"
+A011230,Vine stock nursery operation
+A011310,Turf growing
+A011410,Flower growing
+A011420,Seed growing - flower
+A012110,Mushroom growing
+A012210,Herb growing
+A012220,Seed growing - vegetable
+A012230,Tomato growing
+A012240,Vegetable seed growing
+A012310,Melon growing
+A012320,Onion growing
+A012330,Potato growing
+A012340,"Vegetable growing - except dry field peas, beans and soybeans"
+A013110,Grape growing
+A013120,Vineyard operation
+A013210,Kiwifruit growing
+A013310,Berryfruit growing
+A013320,Strawberry growing
+A013410,Apple growing
+A013420,Pear growing
+A013430,Quince growing
+A013510,Stone fruit growing
+A013610,Citrus fruit growing
+A013710,Olive growing
+A013910,Almond growing
+A013920,Avocado growing
+A013930,Fig growing
+A013935,Fruit growing nec
+A013940,Macadamia nut growing
+A013950,Mango growing
+A013960,Passionfruit growing
+A013970,Pecan nut growing
+A013975,Tree nut growing nec
+A013980,Walnut growing
+A014110,Sheep farming
+A014120,Wool growing
+A014210,Agistment service - other than horses
+A014220,Beef cattle farming
+A014230,Stud beef cattle breeding or farming
+A014410,Beef cattle and sheep farming
+A014420,Sheep and beef cattle farming
+A014510,Beef cattle farming and cereal grain growing
+A014520,Sheep farming and cereal grain growing
+A014910,Cereal grain growing
+A014920,"Grain, cereal growing"
+A014930,Maize growing
+A014940,Oat growing
+A014950,Oilseed growing
+A014960,Safflower growing
+A014970,Sorghum growing - except forage sorghum
+A014980,Soybean growing
+A014985,Sunflower growing
+A014990,Wheat growing
+A015905,Crop growing nec
+A015910,Drug plant growing
+A015920,Fodder growing
+A015930,Ginger growing
+A015940,Hay growing
+A015950,Hop growing
+A015960,Lavender growing
+A015970,Lucerne growing
+A015980,Seed growing nec
+A015985,Tobacco farming
+A015990,Vegetable growing - for fodder
+A016010,Dairy cattle farming
+A016020,Milk production - dairy cattle
+A016030,Stud dairy cattle breeding or farming
+A017110,Chicken farming - for meat
+A017120,Duck farming
+A017130,Game bird farming
+A017140,Goose farming
+A017150,Poultry farming - for meat
+A017160,Poultry hatchery operation - meat breeds
+A017170,Turkey farming
+A017210,Egg farm operation
+A017220,Poultry farming - for eggs
+A017230,Poultry hatchery operation - egg breeds
+A018010,"Deer breeding, farming"
+A019110,Agistment service - horses
+A019120,Horse breeding
+A019125,Horse farming nec
+A019130,Stud farm operation - horses
+A019210,Pig farming
+A019310,Apiarist
+A019320,Beekeeping
+A019910,Bird breeding - except poultry or game birds
+A019920,Butterfly breeding
+A019930,Cat breeding
+A019940,Dog breeding
+A019950,Fur skin animal farming
+A019960,Goat farming
+A019970,Livestock raising nec
+A019975,Mixed livestock farming nec
+A019980,Pet breeding
+A019990,Rabbit farming
+A020110,Aquaculture (offshore)
+A020120,Mussel farming
+A020130,Oyster farming
+A020210,Salmon farming (offshore)
+A020310,Crayfish breeding and farming
+A020320,Fish breeding or farming (onshore)
+A020330,Fish hatchery operation
+A020340,Lobster farming
+A030110,Forest product gathering
+A030120,Forestry
+A030130,Sphagnum moss processing
+A030210,Firewood cutting - forest
+A030220,Logging (including poles)
+A030230,Pulpwood cutting - forest
+A030240,Timber hewing - forest
+A030250,Tree cutting or felling - forest
+A041105,Crab catching
+A041110,"Crayfishing, lobster fishing"
+A041120,Lobster fishing
+A041130,Rock lobster fishing
+A041210,Prawn fishing
+A041220,Scampi fishing
+A041310,Fishing - line fishing (including processing on board)
+A041320,Line fishing
+A041330,Squid jigging (including processing on board)
+A041403,Netting for finfish (including processing on board)
+A041407,Seining for finfish (including processing on board)
+A041410,Trawling for finfish (including processing on board)
+A041910,Abalone fishing
+A041920,"Diving for fish, shellfish"
+A041930,Fishing - freshwater
+A041940,Fishing - marine nec
+A041950,Oyster fishing (except from cultivated oyster beds)
+A041960,Paua fishing
+A041970,Seaweed - algae harvesting
+A041980,"Seaweed, shellfish, and other seafood hand gathering (not from a boat)"
+A042010,Bird trapping
+A042020,Culling of wild animals
+A042030,Fur skin animal hunting or trapping
+A042040,Hunting or trapping
+A042050,Mutton bird catching
+A042060,Possum hunting and trapping
+A042070,Rabbit hunting and trapping
+A051010,Forest chemical operation (ground)
+A051020,Forest conservation services
+A051030,Forest nursery operation or service
+A051040,Forest planting
+A051050,Pest control service - forest - except aerial or wild animal control
+A051055,Reforestation services
+A051060,Silviculture (excluding tree cutting and felling)
+A051070,Timber plantation maintenance
+A051080,Tree pruning - forest
+A051090,Tree thinning to waste
+A052210,Goat shearing
+A052220,Shearing services
+A052903,Aerial crop dusting or spraying
+A052907,Aerial fertiliser spreading
+A052910,Aerial mustering
+A052913,Aerial pest control
+A052917,Agricultural fencing contractor
+A052920,Agricultural services nec
+A052923,Artificial insemination service
+A052927,Branding services - animal
+A052930,Crop dusting service - aerial
+A052933,Crop harvesting service
+A052937,Dairy herd testing
+A052940,Dog training for farm work
+A052943,Farm irrigation service
+A052947,Farrier operation - horse shoeing (excluding farriers who manufacture horseshoes)
+A052950,Fertiliser spreading - aerial
+A052953,Fertiliser spreading - except aerial
+A052955,Fishing support services nec
+A052957,Fruit picking
+A052960,"Hay cutting, baling or pressing"
+A052963,Horticultural services nec
+A052964,Horse training (working horses)
+A052965,Labour supply - horticulture workers
+A052967,Land clearing - bush or rural
+A052970,"Livestock dipping, drafting or droving"
+A052973,Mustering - aerial
+A052977,Pest control service - aerial
+A052980,Pest control service - agricultural - except aerial or wild animal control
+A052983,Seed cleaning or grading
+A052987,Wool classing - except reclassing or bulk classing
+A052990,Wool handling (in conjunction with shearing)
+A052993,Wool reclassing or bulk classing
+B060010,Coal mining - black coal - opencast
+B060020,Coal mining - black coal - underground
+B060030,Coal mining - brown coal - opencast
+B060040,Coal mining - brown coal - underground
+B060050,Peat cutting and packaging
+B070010,Gas - natural - extraction
+B070020,Liquefied petroleum gas - production - except refinery
+B070030,Oil and gas extraction
+B070040,Oil shale mining
+B080105,Iron ore dressing or beneficiating
+B080110,Iron sand mining
+B080410,Gold mining - dredging
+B080420,Gold mining - opencast
+B080430,Gold mining - reworking mullock heaps or tailings
+B080440,Gold mining - underground
+B080510,Sand mining - mineral
+B080710,Silver - lead - zinc ore mining
+B080720,Silver ore mining
+B080730,Zinc ore mining
+B080910,Iron pyrite mining
+B080920,Metallic ore mining nec
+B080930,Tin ore mining
+B091110,"Gravel quarrying, washing or screening"
+B091120,Pebble quarrying
+B091130,Rock gathering - ornamental
+B091140,"Sand quarrying, washing or screening"
+B091910,Aggregate quarrying
+B091920,Clay quarrying
+B091930,"Construction material mining - except sand quarrying, washing or screening"
+B091935,Construction materials crushing or screening
+B091940,Granite quarrying
+B091950,Limestone quarrying
+B091960,Marble quarrying
+B091970,Sandstone quarrying
+B091980,Slate quarrying
+B091990,Stone quarrying
+B099010,Gemstone mining
+B099020,Greenstone or jade mining
+B099030,Mining nec
+B099040,Quartz quarrying
+B099050,Salt harvesting
+B101110,Petroleum and natural gas exploration
+B101120,Petroleum and natural gas exploration services
+B101210,Mineral exploration - own account
+B101220,Mineral exploration services
+B109005,Drilling and blasting services to mines and quarries - except entire mining operation
+B109010,Oil and gas field services
+B109020,Other mining services
+B109030,Petroleum and natural gas drilling services
+C111110,Abattoir operation - except poultry
+C111120,"Beefburgers, frozen or raw, manufacturing"
+C111130,"Bungs, caps or weasands manufacturing"
+C111140,Casings manufacturing
+C111150,Gut materials manufacturing
+C111160,Meat cutting and boning operation
+C111170,Meat processing
+C111180,"Meat, canned or dehydrated, manufacturing"
+C111190,Rendering plant operation (not in conjunction with an abattoir)
+C111210,Abattoir operation - poultry
+C111220,Croquette manufacturing (from poultry meat)
+C111230,Game bird slaughtering
+C111240,Meal (poultry offal) manufacturing
+C111250,Poultry meat manufacturing - except canned
+C111260,Poultry packing
+C111270,Poultry processing
+C111310,"Bacon, ham, and smallgoods manufacturing"
+C111320,Corned meat manufacturing (except canned)
+C111330,Hamburgers manufacturing - precooked
+C111340,"Meat, cooked manufacturing - except poultry"
+C111350,Pate manufacturing - except fish
+C111360,Sausages manufacturing - except canned
+C112010,Crustacean - processed manufacturing
+C112020,Fish cleaning or filleting
+C112025,"Fish cutting, skinning, freezing (other than on vessels)"
+C112030,Fish manufacturing - canned
+C112035,Fish manufacturing - dried or smoked
+C112040,Fish packing house (licensed) operation
+C112045,Fish paste or pate manufacturing
+C112050,Oyster manufacturing - canned
+C112060,Seafood manufacturing - canned
+C112065,Seafood manufacturing - preserved
+C112070,Seafood processing (other than on vessels)
+C112080,Shellfish opening
+C113110,Milk and cream processing
+C113120,Milk receiving or distribution depot operation
+C113210,Ice cream manufacturing
+C113220,"Water ices or fruit ices, frozen, manufacturing"
+C113310,Baby foods manufacturing - milk based
+C113320,Butter manufacturing
+C113330,Cheese manufacturing
+C113340,Dairy products manufacturing nec
+C113350,Milk manufacturing - condensed or evaporated
+C113360,Milk powder manufacturing
+C113370,Milk products manufacturing nec
+C113380,Yoghurt manufacturing
+C114010,"Baby foods, canned or bottled manufacturing - except milk based"
+C114015,Baked beans manufacturing
+C114020,Chutneys or relishes manufacturing
+C114025,Frozen fruit or vegetable manufacturing
+C114030,Fruit canning or bottling
+C114035,Fruit drying - except sun drying
+C114040,"Fruit juices, single strength or concentrated"
+C114045,Fruit manufacturing - frozen
+C114050,Fruit pulp manufacturing - puree or spreads
+C114055,"Jam manufacturing - including conserves, jellies or fruit spreads"
+C114060,Rice preparations manufacturing - canned
+C114065,Sauces manufacturing
+C114070,Soup manufacturing
+C114075,Spaghetti manufacturing - canned
+C114080,Vegetable juices or soups manufacturing
+C114085,Vegetable manufacturing - preserved
+C114090,Vinegar manufacturing (except wine vinegar)
+C115010,Cooking oil filtration and recycling
+C115020,Margarine manufacturing
+C115030,Oil and fat manufacturing
+C115040,Tallow manufacturing
+C115050,"Vegetable oil, meal or cake manufacturing"
+C116110,Flour manufacturing - wheat - except self-raising flour
+C116120,Flour manufacturing - wheat - self-raising flour
+C116130,Flour mill product manufacturing
+C116135,Grain product manufacturing nec
+C116140,Malt extract manufacturing
+C116150,Malt manufacturing - except malt extract
+C116160,Rice manufacturing
+C116170,Self-raising flour manufacturing
+C116210,Baking mix manufacturing
+C116220,Cereal foods manufacturing
+C116230,Oatmeal manufacturing
+C116240,Pasta manufacturing
+C117110,Bakery for bread etc manufacturing - except those selling directly to public
+C117120,Bread bakery operation - except those selling direct to public
+C117125,Bread manufacturing (factory-based)
+C117130,Unleavened bread manufacturing
+C117205,Cake and pastry manufacturing (factory-based)
+C117210,Cake icing or decorating
+C117220,Cake or pastry manufacturing - except those selling direct to public
+C117230,Crumpet manufacturing
+C117240,Doughnut manufacturing
+C117250,Pastry dough manufacturing - frozen
+C117260,Pastry manufacturing - except frozen pastry dough
+C117270,"Pie, pastry, sausage roll manufacturing"
+C117280,Plum pudding manufacturing
+C117310,Biscuit manufacturing
+C117320,Ice cream cone or wafer manufacturing
+C117410,Bakery and hot bread shop
+C117420,Bakery retailing (with on-site baking)
+C118110,Sugar manufacturing
+C118210,Chocolate manufacturing
+C118220,Confectionery manufacturing
+C118230,Crystallised or glace fruit or peel manufacturing
+C118240,Nuts manufacturing - candied
+C119110,Potato crisp and corn chip manufacturing
+C119210,Animal food manufacturing
+C119220,Bird feed manufacturing
+C119230,Cattle or sheep lick manufacturing
+C119240,Fodder manufacturing - prepared
+C119250,Pet food manufacturing - canned
+C119260,Poultry feed manufacturing - prepared
+C119910,Coffee manufacturing
+C119915,Flavouring manufacturing - food
+C119920,Food dressing manufacturing
+C119925,Food manufacturing nec
+C119930,Herb manufacturing - processed
+C119935,Honey manufacturing - blended
+C119940,Jelly crystals manufacturing
+C119945,Pre-prepared meals manufacturing nec
+C119950,Rice preparations manufacturing nec
+C119955,Salt manufacturing - cooking or table
+C119960,Seasoning manufacturing - food
+C119965,Spice manufacturing
+C119970,Sushi and sashimi manufacturing
+C119975,Tea manufacturing
+C121110,Cordial manufacturing
+C121120,Fruit juice or fruit juice drink manufacturing - less than single strength
+C121130,Ice manufacturing - except dry ice
+C121140,Mineral water manufacturing
+C121150,Soft drink manufacturing
+C121160,"Soft drink mix, powdered, manufacturing"
+C121170,"Syrup manufacturing - chocolate, caramel or vanilla"
+C121180,"Syrup, fruit, manufacturing"
+C121210,Beer manufacturing
+C121220,Breweries
+C121310,Liqueur manufacturing
+C121320,Spirit based mixed drink manufacturing
+C121330,"Spirits, potable manufacturing"
+C121410,Cider manufacturing
+C121420,Mead manufacturing
+C121430,Sparkling wine manufacturing
+C121440,"Vinegar, wine, manufacturing"
+C121450,Wine manufacturing
+C121460,"Wine-based fruit drink ""coolers"" manufacturing"
+C122010,Cigarette manufacturing
+C122020,Tobacco manufacturing
+C131110,Lanolin manufacturing
+C131120,Wool manufacturing - carded or combed
+C131130,Wool scouring
+C131210,Cotton textile manufacturing
+C131220,Fabric manufacturing - cotton
+C131230,Fabric manufacturing - wool
+C131235,Natural textile manufacturing nec
+C131240,Wool textile manufacturing
+C131250,"Yarn manufacturing - cotton, flax or silk"
+C131260,Yarn manufacturing - wool
+C131310,Fabric manufacturing - synthetic
+C131320,Fibreglass fabric manufacturing
+C131330,Synthetic fibre textile manufacturing
+C131340,Yarn manufacturing - elastic or elastomeric
+C132010,Bag manufacturing - leather or leather substitute
+C132020,Fellmongery
+C132030,Handbag manufacturing
+C132040,Harness manufacturing
+C132050,Leather manufacturing
+C132060,Leather or leather substitute goods manufacturing nec
+C132070,Leather tanning and fur dressing
+C132080,Saddle manufacturing
+C132090,Suitcase manufacturing
+C133110,"Carpet, rug manufacturing"
+C133120,Floor covering manufacturing - textile
+C133210,Cord and twine manufacturing
+C133220,Fish net manufacturing
+C133230,Net and netting manufacturing
+C133240,Rope manufacturing
+C133250,String manufacturing
+C133310,Awning manufacturing - textile
+C133315,Bag or sack manufacturing - textile
+C133320,Blanket manufacturing - cotton
+C133325,Blanket manufacturing - synthetic
+C133330,Blanket manufacturing - wool
+C133335,Blind manufacturing - textile
+C133340,Canvas goods manufacturing
+C133345,Curtain making
+C133350,Flag or banner manufacturing
+C133355,Motor vehicle covers manufacturing - textile
+C133360,Parachute manufacturing
+C133365,Pillow or cushion manufacturing
+C133370,Rug manufacturing - animal
+C133375,Sail manufacturing
+C133380,Seat cover manufacturing - textile
+C133385,Sleeping bag manufacturing
+C133390,Soft furnishing manufacturing
+C133395,Tent manufacturing
+C133410,Badge manufacturing - cloth
+C133420,Dyeing service
+C133430,Fabric manufacturing - embroidered
+C133440,Fabric manufacturing nec
+C133450,"Label woven cloth, manufacturing"
+C133455,"Label, printed cloth, manufacturing"
+C133460,Textile finishing
+C133470,Textile printing or dyeing (on commission or fee basis)
+C133480,Textile product manufacturing nec
+C133490,Underfelt manufacturing
+C134010,Cardigan and pullover manufacturing
+C134020,"Handknitting - cardigan, pullover or similar"
+C134025,"Handknitting - other than cardigan, pullover or similar"
+C134030,Hosiery manufacturing
+C134040,Knitted clothing manufacturing (from fabric knitted at the same unit)
+C134045,Knitted fabric manufacturing
+C134050,Pantihose manufacturing
+C134060,Sock manufacturing
+C134070,Stocking manufacturing
+C134080,Tight manufacturing
+C135103,Clothing accessories manufacturing nec
+C135107,Clothing manufacturing - leather
+C135110,Clothing manufacturing - mens and boys
+C135113,"Clothing manufacturing - sleepwear, underwear and infant clothing"
+C135117,Clothing manufacturing - waterproof
+C135120,Clothing manufacturing - womens and girls
+C135123,Clothing manufacturing nec
+C135127,Custom tailoring - womens and girls
+C135130,Custom tailoring (mens & boys)
+C135133,Dressmaking - custom tailoring
+C135137,Foundation garment manufacturing
+C135140,Hat manufacturing
+C135143,Helmet manufacturing
+C135147,Infant clothing manufacturing (except from fabric knitted at the same unit)
+C135150,Jeans manufacturing - mens or boys
+C135153,Jeans manufacturing - womens or girls
+C135157,Leather clothing manufacturing
+C135160,Lingerie manufacturing
+C135163,Male and female clothing manufacturing - similar quantities of each
+C135167,Menswear manufacturing
+C135170,Sleepwear manufacturing (except from fabric knitted at the same unit)
+C135173,Suit manufacturing - mens or boys
+C135177,Suits manufacturing - womens or girls
+C135180,Swimwear manufacturing (except from fabric knitted at the same unit)
+C135183,Tie manufacturing
+C135187,Underwear manufacturing (except from fabric knitted at the same unit)
+C135190,Uniform manufacturing - mens or boys
+C135193,Uniform manufacturing - womens or girls
+C135196,Unisex clothing manufacturing
+C135198,Wet suit manufacturing
+C135210,Boot manufacturing
+C135220,Footwear component manufacturing
+C135230,Footwear manufacturing
+C135240,Sandal manufacturing
+C135250,Shoe manufacturing
+C135260,Thong manufacturing - rubber
+C141110,Bark manufacturing - ground
+C141120,Logyard operation in conjunction with a processing plant
+C141130,Saw mill operation
+C141140,Timber manufacturing - rough sawn
+C141210,Woodchip manufacturing
+C141305,Chemical preservation of timber
+C141310,Dressed timber or moulding manufacturing
+C141320,"Timber manufacturing - building, dressed"
+C141325,Timber drying
+C149110,Garage manufacturing - prefabricated nec
+C149120,Kitset home manufacturing
+C149130,Prefabricated building manufacturing nec
+C149140,Transportable home manufacturing
+C149210,"Cabinet making, joinery - except furniture and on-site fabrication of built in furniture or other joinery"
+C149220,"Carpentry, joinery - except furniture and on-site fabrication of built-in furniture or other joinery"
+C149230,Door or window manufacturing - wooden
+C149240,Roof truss manufacturing - wooden
+C149250,Structural fitting manufacturing - wooden
+C149260,Wooden structural component manufacturing
+C149305,Laminated veneer lumber (LVL) manufacturing
+C149310,Plywood manufacturing
+C149320,Veneer or veneer sheet manufacturing - wooden
+C149410,Chipboard manufacturing
+C149420,Fabricated wood manufacturing
+C149430,Hardboard manufacturing
+C149440,Particle board manufacturing
+C149450,Wallboard (other) manufacturing
+C149910,Barrel manufacturing - wooden
+C149915,Blind or shutter manufacturing - wooden
+C149920,Containers (wooden) manufacturing
+C149930,Frame manufacturing - wooden picture or mirror
+C149940,Hot tub (wooden) manufacturing
+C149950,Picture framing service
+C149960,Wood product manufacturing nec
+C151010,Cardboard manufacturing
+C151020,Newsprint manufacturing
+C151030,Paper manufacturing nec
+C151040,Paper pulp manufacturing
+C151050,Paperboard manufacturing nec
+C151060,Wood pulp manufacturing
+C152110,Container manufacturing - corrugated paperboard
+C152120,Container manufacturing - solid paperboard
+C152130,Corrugated paperboard sheeting manufacturing
+C152210,Bag manufacturing - paper
+C152220,Paper bag and sack manufacturing
+C152310,Album manufacturing
+C152320,Calendar manufacturing
+C152330,Greeting card manufacturing
+C152340,Paper stationery manufacturing - except commission printing
+C152410,Baby napkin manufacturing - disposable
+C152420,Sanitary napkin manufacturing
+C152430,Tampon manufacturing
+C152440,Tissue or sanitary paper manufacturing
+C152450,Toilet paper rolls manufacturing
+C152910,Adhesive tape manufacturing
+C152920,Paper product manufacturing nec
+C152930,Wallpaper manufacturing
+C161110,Commercial printing
+C161120,Newspaper printing
+C161130,Photocopying service
+C161140,Printing
+C161150,Screen printing
+C161160,"Stationery, paper, printing"
+C161210,Artwork preparation service
+C161220,Bookbinding
+C161230,Laser engraving
+C161240,Phototypesetting and layout service
+C161250,Platemaking film service
+C161255,Printing support service nec
+C161260,Printing trade service
+C161270,Screen printing positive manufacturing
+C161280,Typesetting and composing service
+C162010,"Audio tape, pre-recorded, manufacturing or publishing"
+C162020,Compact disc manufacturing or publishing
+C162030,Computer tape or disks manufacturing or publishing - pre-recorded
+C162040,Magnetic tape manufacturing - pre-recorded or publishing
+C162050,Record - phonograph - manufacturing or publishing
+C162060,Recorded media manufacturing and publishing
+C162070,"Video tape, pre-recorded manufacturing or publishing"
+C170110,Gas or fuel oil manufacturing
+C170120,Gasoline refining or blending
+C170130,Liquefied petroleum gas manufacturing - refinery
+C170140,Petroleum refining
+C170150,Synthetic petrol manufacturing
+C170910,Bituminous product manufacturing
+C170920,Coal product manufacturing nec
+C170930,Paving material manufacturing - except hot-mix
+C170940,Petroleum product manufacturing nec
+C170950,Recovery of lubricating oil or grease from used petroleum products
+C170960,Roofing manufacturing - bitumen or asphalt
+C181110,Acetylene gas manufacturing
+C181120,Dry ice manufacturing
+C181130,Gas manufacturing - industrial
+C181140,Industrial gas manufacturing
+C181150,Medical gas manufacturing nec
+C181210,Dyes manufacturing - organic
+C181220,Industrial chemical manufacturing - organic nec
+C181230,Organic industrial chemical manufacturing nec
+C181310,Ammonia manufacturing
+C181320,Chlorine manufacturing
+C181330,Dyes manufacturing - inorganic
+C181340,Industrial chemical manufacturing - inorganic nec
+C181350,Salt refining - except cooking or table salt
+C182110,Rubber recycling
+C182120,Silicone manufacturing
+C182130,Synthetic resin manufacturing
+C182140,Synthetic rubber manufacturing
+C182905,Basic polymer manufacturing nec
+C182910,"Insulation material, cellulose fibre, manufacturing"
+C182920,Plastic raw material manufacturing
+C182930,Plastic recycling
+C183110,Fertiliser manufacturing
+C183120,Potting mix manufacturing and packaging
+C183210,Dip manufacturing - animal
+C183220,Fly spray manufacturing
+C183230,Insecticide manufacturing
+C183240,Mouse and rat poison manufacturing
+C183250,Pesticide manufacturing
+C183260,Weedkiller manufacturing
+C184110,Contraceptive manufacturing
+C184120,Medicine manufacturing
+C184130,Pharmaceutical preparation (human) manufacturing
+C184140,Vitamin product manufacturing
+C184210,Veterinary pharmaceutical preparation manufacturing
+C185110,Candle manufacturing
+C185120,Detergent manufacturing
+C185130,Disinfectant manufacturing
+C185140,Polish manufacturing
+C185150,Soap manufacturing
+C185160,Surface cleaning or degreasing preparation manufacturing
+C185170,Toothpaste manufacturing
+C185180,Washing powder or liquid manufacturing
+C185210,Cosmetic manufacturing
+C185220,Deodorant manufacturing
+C185230,Hair care product manufacturing
+C185240,Perfume manufacturing
+C185250,Sun-screen preparation manufacturing
+C185260,Toiletry preparation manufacturing
+C189210,Explosive manufacturing
+C189220,Firework manufacturing
+C189230,Match manufacturing
+C189240,Pyrotechnic goods manufacturing nec
+C189910,Chemical product manufacturing nec
+C189915,E-liquid (for electronic cigarette and vape) manufacturing
+C189920,Essential oil distilling
+C189930,Lavender oil extraction
+C191110,Bag manufacturing - plastic
+C191120,Film manufacturing - plastic
+C191130,Garbage bag manufacturing - plastic
+C191140,Plastic laminate fabrication
+C191210,"Blow moulding, plastic, manufacturing"
+C191220,Kitchenware manufacturing - plastic
+C191230,Moulded plastic shoe manufacturing
+C191240,Picnicware manufacturing - plastic
+C191250,Plastic door or window manufacturing
+C191260,Plastic extruded product manufacturing
+C191270,Plastic injection moulded product manufacturing
+C191275,Rigid and semi-rigid polymer product manufacturing nec
+C191280,"Thermoforming, plastic, manufacturing"
+C191290,"Vacuum forming, plastic, manufacturing"
+C191310,Plastic foam product manufacturing
+C191410,Motor vehicle tyre manufacturing
+C191420,Tube manufacturing - pneumatic
+C191430,Tyre retreading or recapping
+C191440,"Tyre, pneumatic, manufacturing"
+C191510,Adhesive manufacturing
+C191520,Glue manufacturing
+C191605,Coatings manufacturing nec
+C191610,Filler or putty manufacturing
+C191620,Ink manufacturing
+C191630,Lacquer manufacturing
+C191640,Paint manufacturing - except bituminous
+C191650,Paint remover manufacturing
+C191910,Awning manufacturing - fibreglass
+C191920,Fibreglass product manufacturing nec
+C191930,Garbage bin manufacturing - plastic
+C191940,Plastic product manufacturing nec
+C191950,Plastic product rigid fibre reinforced manufacturing
+C191960,Spa pool manufacturing
+C191970,Swimming pool shell manufacturing
+C191980,Tank manufacturing - fibre reinforced plastic
+C192010,Floor covering manufacturing - rubber
+C192020,Hose manufacturing - rubber
+C192030,Mattress manufacturing - rubber
+C192040,Rubber product manufacturing nec
+C192050,Tile manufacturing - rubber
+C192060,"Tyre, solid rubber, manufacturing"
+C201005,Bottle manufacturing - glass
+C201010,Crystal glass manufacturing
+C201015,"Glass cutting, bevelling (excluding glazing)"
+C201020,Glass or glass product manufacturing - except glass wool or glass wool product
+C201025,Jar manufacturing - glass
+C201030,Kitchenware manufacturing - glass
+C201035,Laminated sheet glass manufacturing
+C201040,Mirror manufacturing
+C201045,Optical glass manufacturing
+C201050,Safety glass manufacturing
+C201055,Scientific glassware manufacturing
+C201060,Tubing manufacturing - glass
+C201065,Window glass manufacturing
+C201070,Windscreen glass manufacturing
+C202110,Brick manufacturing - clay
+C202903,Art pottery manufacturing
+C202907,Bathroom fixture manufacturing - vitreous china
+C202910,Brick manufacturing - refractory
+C202913,Ceramic product manufacturing nec
+C202917,"Ceramic product, industrial manufacturing"
+C202920,Ceramic tile and pipe manufacturing
+C202923,China goods manufacturing
+C202927,Crockery manufacturing
+C202930,Flower pot manufacturing - ceramic
+C202933,Kitchen sink manufacturing - vitreous china or porcelain
+C202937,Kitchenware manufacturing - ceramic
+C202940,Pipe manufacturing - ceramic - except vitreous china or porcelain
+C202943,Pipe or pipe fitting - vitreous china or porcelain manufacturing
+C202947,Pottery goods manufacturing - ornamental
+C202950,Roof tile manufacturing - terracotta or clay
+C202953,Sanitary ware manufacturing - vitreous china or porcelain
+C202957,Stoneware manufacturing - table or kitchen
+C202960,Terracotta construction goods manufacturing
+C202963,Terracotta ware manufacturing nec
+C202967,Tile manufacturing - terracotta
+C202970,Toilet cistern manufacturing - vitreous china or porcelain
+C202973,Vitreous china goods manufacturing - except tile
+C202977,Wall or floor tile manufacturing - ceramic
+C202980,Wash basin manufacturing - vitreous china or porcelain
+C203110,Cement manufacturing
+C203120,Lime manufacturing
+C203210,Display model manufacturing - plaster
+C203220,Plaster product manufacturing - except dental or medical plaster
+C203230,Plasterboard manufacturing
+C203240,"Tile manufacturing - acoustic, plaster"
+C203250,Tile manufacturing - plaster
+C203260,Wall or ceiling board manufacturing - plaster
+C203310,Ready mixed concrete manufacturing - except dry mix
+C203405,Block manufacturing - concrete
+C203410,"Box culvert, concrete, manufacturing"
+C203415,Brick manufacturing - concrete
+C203420,"Building board, fibre cement, manufacturing"
+C203425,Concrete product manufacturing nec
+C203430,Floor or wall tile manufacturing - concrete
+C203435,Flower pot manufacturing - concrete
+C203440,Monument or grave marker manufacturing - concrete
+C203445,Pipe manufacturing - concrete
+C203450,Post or pole manufacturing - concrete
+C203455,Railway sleeper manufacturing - concrete
+C203460,Roof component manufacturing - concrete
+C203465,Roof tile manufacturing - concrete
+C203470,Tank manufacturing - concrete
+C203475,Terrazzo product manufacturing
+C203480,Tile manufacturing - concrete
+C209010,Abrasive manufacturing
+C209020,"Acoustic tile, panel and board manufacturing - glass or mineral wool"
+C209030,"Building board, imitation brick or stone, manufacturing"
+C209040,Gemstone manufacturing - synthetic
+C209050,"Headstone manufacturing, installation"
+C209060,"Insulation, glass fibre or mineral wool manufacturing"
+C209065,Mineral product manufacturing nec
+C209070,Monument making
+C209080,"Stone - cutting, dressing, polishing or shaping"
+C211010,"Flat-rolled products, iron or steel, manufacturing"
+C211020,Iron and steel manufacturing - basic
+C211025,Iron or steel recovery from scrap
+C211030,Pig iron manufacturing
+C211040,Roof decking manufacturing - steel
+C211050,"Section, steel, manufacturing"
+C211060,Stainless steel manufacturing
+C211070,Steel alloy manufacturing
+C211080,Tinplate sheet or strip manufacturing
+C212110,Casting manufacturing - iron or steel
+C212120,"Fitting or valve, steam, gas, or water, manufacturing (cast iron or steel)"
+C212210,Pipe and tube manufacturing - steel
+C213110,Alumina manufacturing
+C213205,Aluminium recovery from scrap
+C213210,Aluminium smelting
+C213305,"Copper, silver, lead or zinc recovery from scrap or waste material"
+C213310,"Copper smelting, refining"
+C213320,"Lead smelting, refining"
+C213330,"Silver smelting, refining"
+C213340,Silver-lead bullion manufacturing
+C213350,Zinc smelting or refining
+C213910,"Gold smelting, refining"
+C213920,Non-ferrous alloy manufacturing nec
+C213925,Recovery of non-ferrous metal nec from waste material
+C213930,Tin smelting
+C213940,Welding rods manufacturing
+C214110,Casting manufacturing - non-ferrous metal
+C214120,"Die casting, non-ferrous metal manufacturing nec"
+C214130,Forging manufacturing - non-ferrous metal nec
+C214210,"Aluminium rolling, drawing or extruding"
+C214220,Pipe and tube manufacturing - aluminium
+C214230,Plate manufacturing - aluminium
+C214240,Sheet manufacturing - aluminium
+C214250,Wire manufacturing - aluminium
+C214910,Pipe and tube manufacturing - non-ferrous metal - except aluminium
+C214920,Plate manufacturing - non-ferrous metal - except aluminium
+C214930,Sheet manufacturing - non-ferrous metal - except aluminium
+C214940,Wire manufacturing - non-ferrous metal - except aluminium
+C221010,"Fitting or valve, steam, gas, or water, manufacturing (forged iron or steel)"
+C221020,Forging manufacturing - iron or steel
+C221030,Horseshoe manufacturing - farriery
+C221040,Horseshoe manufacturing - mass production
+C222110,Fabricated structural steel manufacturing - ready made parts for structures
+C222120,Girder manufacturing - prefabricated steel
+C222130,"Joist, prefabricated steel manufacturing"
+C222140,"Reinforcing steel rod, processed, manufacturing"
+C222150,Roof truss manufacturing - prefabricated steel
+C222160,Scaffolding manufacturing - prefabricated steel
+C222210,Garage manufacturing - prefabricated metal
+C222220,Prefabricated metal building manufacturing
+C222230,Shed manufacturing - prefabricated metal
+C222240,Shed manufacturing - prefabricated nec
+C222305,Architectural aluminium product manufacturing
+C222307,"Chain curtain or screen, aluminium, manufacturing"
+C222310,"Doors or door frame, aluminium, manufacturing"
+C222315,Garage door manufacturing - aluminium
+C222320,Gate manufacturing - aluminium
+C222325,Roller shutter manufacturing - aluminium
+C222330,Screen door manufacturing - aluminium
+C222335,"Shop front manufacturing, installation - aluminium"
+C222340,Shower screen manufacturing - aluminium framed
+C222345,Shutter manufacturing - aluminium
+C222350,Skylight manufacturing - aluminium
+C222355,Window - aluminium framed manufacturing - complete with glass
+C222360,Window frame or sash manufacturing - aluminium
+C222365,Window screen manufacturing - aluminium
+C222410,Guttering manufacturing - sheet metal
+C222420,"Roofing, metal (except aluminium), and components manufacturing"
+C222905,"Architectural metal fixture (including door and sash, except aluminium) manufacturing"
+C222910,Garage door manufacturing - metal - except aluminium
+C222915,Gate manufacturing - metal - except aluminium or wire
+C222920,Roller shutter manufacturing - metal - except aluminium
+C222925,Screen door manufacturing - metal - except aluminium
+C222930,Security door manufacturing - metal
+C222935,"Shop front manufacturing, installation - metal - except aluminium"
+C222940,Shutter manufacturing - metal - except aluminium
+C222945,Skylight manufacturing - metal - except aluminium
+C222950,Stairs or staircase manufacturing - prefabricated metal - except aluminium
+C222955,Structural metal product manufacturing nec
+C222960,Window frame or sash manufacturing - metal - except aluminium
+C222965,Window or door fitting manufacturing - metal
+C222970,Window screen manufacturing - metal - except aluminium
+C223110,Boilermaking and installation
+C223120,Freight container manufacturing - metal
+C223130,"Storage tank, metal plate manufacturing"
+C223140,Tank manufacturing - sheet metal
+C223910,Aerosol container manufacturing
+C223920,Barrel manufacturing - metal
+C223930,Can manufacturing - metal
+C223940,Garbage can manufacturing - metal
+C223950,Metal container manufacturing
+C223960,Tool box manufacturing - sheet metal
+C224010,Copper smithing - except boiler making
+C224020,Duct manufacturing - sheet metal
+C224030,Metal stamping manufacturing nec
+C224040,Sheet metal product manufacturing nec
+C224050,Ventilator manufacturing - sheet metal
+C229110,"Gate, wire manufacturing"
+C229120,Nail manufacturing
+C229130,Screening manufacturing - wire
+C229140,Shopping trolley manufacturing
+C229150,Spring manufacturing
+C229160,Steel wire safety screen manufacturing
+C229170,Wire mesh or netting manufacturing - except reinforcing mesh
+C229180,Wire product manufacturing nec
+C229210,"Masonry anchor, metal, manufacturing"
+C229220,Nut or bolt manufacturing - metal
+C229230,Screw manufacturing - metal
+C229240,"Washer, metal, manufacturing"
+C229305,Brass finishing or plating
+C229310,Chromium plating
+C229315,Enamelling service
+C229320,"Engraving on metal (including laser) - except printing, process or photographic"
+C229325,Galvanising of client supplied material
+C229330,Gold plating
+C229335,Heat treating metal or metal product
+C229340,Metal coating of manufactured product nec
+C229345,Metal polishing or finishing
+C229355,Painting of manufactured metal product
+C229360,Plastic coating of metal
+C229365,Powder coating of metallic product
+C229370,Silver plating
+C229375,Surface coating and finishing
+C229380,Vitreous enamelling
+C229902,Ammunition manufacturing
+C229905,Awning manufacturing - metal
+C229908,Bathroom and toilet fitting manufacturing - metal
+C229910,Blacksmith service
+C229912,Blind manufacturing - metal
+C229915,Clothes hoist manufacturing
+C229918,Cutlery manufacturing
+C229920,Display model manufacturing - metal
+C229922,Fabricated metal product manufacturing nec
+C229925,Fire sprinkler manufacturing
+C229928,Firearm manufacturing
+C229930,Furniture fitting manufacturing - metal
+C229932,Garden tool manufacturing - except power operated
+C229935,General hardware manufacturing nec
+C229938,Gun or rifle manufacturing
+C229940,Hand tool manufacturing nec - except pneumatic or power operated
+C229942,Key manufacturing
+C229945,Knife manufacturing - hand held - except power operated
+C229948,Lamp or lamp part manufacturing
+C229950,Livestock yarding equipment manufacturing - metal
+C229952,Lock manufacturing
+C229955,Mast manufacturing - aluminium
+C229958,Metalworking hand tool manufacturing - except pneumatic or power operated
+C229960,Pipe fitting manufacturing - non-ferrous metal
+C229962,Platework nec
+C229965,Razor or razor blade manufacturing - except power operated
+C229968,Safe or vault manufacturing or installation
+C229970,Saw blade manufacturing
+C229972,Scissor manufacturing - except electric
+C229975,Screwdriver manufacturing - including bit or blade - except pneumatic or power operated
+C229978,Tubing manufacturing - flexible metal
+C229980,"Valve or valve part, steam, gas or water, manufacturing (non-ferrous metal)"
+C229985,"Woodworking hand tool manufacturing - except of wood, pneumatic or power operated"
+C231105,Motor vehicle assembling
+C231110,Motor vehicle manufacturing
+C231120,Motor vehicle parts manufacturing (in association with complete motor vehicles)
+C231210,Boat trailer manufacturing
+C231220,"Bus, coach body manufacturing"
+C231230,Campervan manufacturing
+C231240,Caravan and camper trailer manufacturing
+C231250,Horse float manufacturing
+C231255,Motor vehicle body manufacturing
+C231260,Ambulance or fire truck converting
+C231270,Trailer manufacturing
+C231280,Truck body manufacturing
+C231310,Motor vehicle electrical part and instrument manufacturing
+C231910,Automotive component manufacturing nec
+C231920,Car accessory manufacturing
+C231930,Child car restraint manufacturing
+C231940,Muffler manufacturing
+C231950,Radiator manufacturing
+C231960,Seat-belt manufacturing
+C231970,Wheel manufacturing
+C239110,Drydock operation
+C239120,Ship repairing
+C239130,Ship wrecking
+C239140,Shipbuilding (any vessel over 50 tonnes displacement)
+C239210,Boat building or repair (all vessels under 50 tonnes displacement)
+C239220,"Boat, inflatable, manufacturing"
+C239230,Yacht constructing (all vessels under 50 tonnes displacement)
+C239310,Locomotive manufacturing and repair
+C239320,Railway rolling stock manufacturing and repair
+C239330,Tram manufacturing
+C239410,Aircraft engine building or repair
+C239420,"Aircraft manufacturing, maintenance and repair"
+C239430,Aircraft wheel and brake reconditioning service
+C239440,Helicopter manufacturing or repairing
+C239910,Bicycle manufacturing
+C239920,Transport equipment manufacturing nec
+C239930,Trotting gig manufacturing
+C239940,Wheelbarrow manufacturing
+C239950,Wheelchair manufacturing
+C241110,Contact lens manufacturing
+C241120,Optical instrument or equipment manufacturing
+C241130,Optical lens grinding
+C241140,Photographic equipment manufacturing
+C241150,Spectacle frame manufacturing
+C241160,Sunglass manufacturing
+C241205,"Artificial limb, eye, etc manufacturing"
+C241210,Dental instrument or equipment manufacturing
+C241215,Denture fabrication
+C241220,Diagnostic apparatus manufacturing
+C241225,Hearing aid manufacturing
+C241230,Medical equipment manufacturing
+C241235,Orthotic - arch support manufacturing
+C241240,Prosthetic products and services
+C241245,Surgical equipment manufacturing
+C241250,Veterinary instrument manufacturing
+C241905,Electricity meter manufacturing
+C241910,Measuring instrument manufacturing
+C241915,Meteorological instrument manufacturing nec
+C241920,Meter manufacturing - gas or water
+C241925,Nautical instrument manufacturing
+C241930,Navigational equipment manufacturing
+C241935,Optical fibre cable manufacturing - uninsulated
+C241940,Parking meter manufacturing
+C241943,Professional equipment manufacturing nec
+C241945,Radar equipment manufacturing
+C241950,Radio remote control equipment manufacturing
+C241955,Scientific instrument or equipment manufacturing nec
+C241960,Surveying instrument manufacturing
+C241965,Taxi meter manufacturing
+C241970,Technology education equipment manufacturing nec
+C241975,Traffic signal manufacturing - electrical
+C242110,Computer and business machine manufacturing
+C242120,Office machine manufacturing
+C242210,Broadcast equipment manufacturing
+C242220,Radio transceiver manufacturing
+C242230,Telecommunication equipment manufacturing
+C242240,Telephone equipment manufacturing
+C242250,Television antennae manufacturing
+C242910,Alarm system manufacturing
+C242920,Electronic equipment manufacturing nec
+C242930,Loudspeaker manufacturing
+C242940,Printed circuit board manufacturing
+C242950,Sound reproducing equipment manufacturing
+C243105,Optical fibre cable manufacturing
+C243110,Telecommunication cable manufacturing
+C243120,Wire or cable manufacturing - electric
+C243210,"Bulb or tube, electric light manufacturing"
+C243220,Electric light fitting manufacturing
+C243230,Neon sign manufacturing
+C243240,Sign manufacturing - electric
+C243910,Battery manufacturing
+C243920,Electric motor manufacturing nec
+C243930,Electrical equipment or machinery manufacturing nec
+C243940,Furnace manufacturing - electric - except space heater
+C243950,Furnace manufacturing - industrial - except electric furnace or space heaters
+C243960,Transformer manufacturing
+C243970,Welding equipment manufacturing - electrical
+C244110,Barbecue manufacturing
+C244120,Household appliance (whiteware) manufacturing
+C244910,Gas heating appliance - household - manufacturing
+C244920,Heater - household - manufacturing
+C244930,Household appliance (excluding whiteware) manufacturing
+C244940,"Solar water heating system, domestic, manufacturing"
+C244950,Water cooler manufacturing
+C244960,"Water heater manufacturing - industrial, commercial or household"
+C244970,Water treatment equipment manufacturing - household
+C245110,Petrol bowser manufacturing
+C245120,Pump and compressor manufacturing
+C245210,Commercial space heating and cooling equipment manufacturing
+C245220,Refrigeration equipment manufacturing - commercial or industrial
+C245225,"Solar water heating system, commercial or industrial, manufacturing"
+C245230,Vending machine manufacturing - refrigerated
+C246110,Agricultural machinery or equipment manufacturing
+C246120,Lawn mower manufacturing
+C246130,Tractor manufacturing - agricultural - except crawler tractor
+C246140,Windmill manufacturing
+C246210,Construction equipment manufacturing
+C246220,Drilling machinery manufacturing nec
+C246230,Earthmoving machinery manufacturing
+C246240,Mining machinery manufacturing
+C246250,Tractor manufacturing - for construction or earthmoving purposes
+C246310,Drilling machinery manufacturing - woodworking or metalworking
+C246320,Forging machinery manufacturing
+C246330,Hand tool nec manufacturing - pneumatic or power operated
+C246340,Machine tool and part manufacturing
+C246350,Pneumatic tool manufacturing nec
+C246360,Welding or cutting equipment manufacturing - gas
+C246370,Woodworking machinery manufacturing nec
+C246910,Bakery machinery manufacturing
+C246920,Bottling machine manufacturing
+C246930,Distilling and beverage equipment manufacturing
+C246940,Flour milling machinery manufacturing
+C246950,Food packing machinery manufacturing
+C246960,Food processing machinery manufacturing
+C246970,Industry-specific machinery and equipment manufacturing nec
+C249110,Elevators or elevator part manufacturing
+C249120,Forklift truck manufacturing
+C249130,"Lift manufacturing, installation and repair"
+C249140,Lifting and material handling equipment manufacturing
+C249910,General engineering
+C249920,Industrial machinery and equipment manufacturing nec
+C249930,Vending machine manufacturing - except refrigerated
+C249940,Water treatment equipment manufacturing - except household
+C249950,Weighing machinery manufacturing
+C251110,Antique wooden furniture manufacturing
+C251120,Bed manufacturing nec
+C251130,"Cabinet making, joinery - furniture"
+C251140,"Carpentry, joinery - furniture"
+C251150,Kitchen furniture manufacturing - wooden
+C251155,"Stage scenery, props and furniture manufacturing - wooden"
+C251160,Upholstered furniture manufacturing
+C251170,Wooden furniture manufacturing
+C251210,Furniture manufacturing - sheet metal
+C251215,Metal furniture manufacturing nec
+C251220,Office furniture manufacturing - sheet metal
+C251225,"Stage scenery, props and furniture manufacturing - sheet metal"
+C251310,Bed base manufacturing - upholstered
+C251320,Mattress manufacturing - except rubber
+C251910,Cane product manufacturing
+C251920,Furniture manufacturing nec
+C251930,Furniture part manufacturing - except sheet metal
+C251940,"Stage scenery, props and furniture manufacturing nec"
+C259110,Badge manufacturing - metal
+C259120,Gem cutting
+C259130,Gold smithing
+C259140,Jewellery manufacturing
+C259150,Lapidary work
+C259160,Medal manufacturing
+C259170,Silverware manufacturing
+C259210,Billiard table manufacturing
+C259220,Hang glider manufacturing
+C259225,Recreational product manufacturing nec
+C259230,Sailboard manufacturing
+C259240,Skateboard manufacturing
+C259250,Skin diving equipment manufacturing
+C259260,Sports goods manufacturing nec
+C259270,Surfboard manufacturing
+C259280,Toy manufacturing
+C259905,Broom and brush manufacturing
+C259907,Manufacturing nec
+C259910,Musical instrument manufacturing
+C259915,Painting of manufactured wooden product
+C259920,Pen manufacturing
+C259925,Pencil manufacturing
+C259930,Rubber stamp manufacturing
+C259935,Stamp pad manufacturing
+C259940,Taxidermist
+C259945,Toilet building manufacturing - portable
+C259950,Umbrella manufacturing
+C259955,Wig manufacturing
+D261110,Fossil fuel electricity generation
+D261210,Hydro-electricity generation
+D261910,Electricity generation nec
+D262010,Electricity transmission (national grid)
+D263010,Electricity line system operation
+D263020,Electricity line system operation (excluding maintenance and construction)
+D264010,Electricity energy sales operation
+D264020,Electricity market operation
+D270010,Fuel gas distribution - through mains system
+D270020,"Gas, natural, distribution - through mains system"
+D281110,Pumping station operation - water supply
+D281120,Water supply system operation
+D281130,"Water, sewerage or gas utility operation (excluding plant operation, maintenance and construction)"
+D281210,Drainage system operation (town or stormwater)
+D281220,Pumping station operation - sewerage
+D281230,Sewerage system operation
+D291105,Bin hiring and waste collection service nec
+D291110,Garbage collection service
+D291120,Industrial waste collection and disposal service
+D291130,Rubbish and waste removal
+D291135,Solid waste collection service
+D291140,"Toilet, portable, hiring"
+D291903,Hazardous waste (except solid) collection service
+D291907,Industrial waste (except solid) collection service
+D291910,Septic tank service
+D291920,Used oil collection service
+D291930,Waste collection service nec
+D292110,Garbage disposal service
+D292115,Hazardous waste treatment or disposal service
+D292120,Rubbish dump or tip operation
+D292130,Sanitary disposal service
+D292140,Waste disposal service
+D292210,Asbestos removal service
+D292213,E-waste collection and material recovery
+D292215,Hazardous material removal
+D292217,Materials recovery station operation nec
+D292220,"Recycling of glass, plastic bottles, etc - collecting, sorting, dealing, wholesaling"
+D292230,"Recycling of other non-metal waste and scrap - collecting, sorting, dealing, wholesaling"
+D292240,Toxic material abatement
+D292250,Waste remediation
+E301110,"Assembly, erection or installation of prefabricated domestic sheds, garages or carports"
+E301120,"Building, house construction"
+E301130,"House construction, alteration, renovation or general repair"
+E301140,"House prefabricated - assembly, erection or installation"
+E301910,"Building, residential - flats, units, apartments, etc (excluding houses)"
+E301920,Repair (general) or renovation of residential buildings nec
+E302010,"Building, non-residential construction - commercial buildings, hotels, etc"
+E302020,Repair (general) or renovation of non residential buildings nec
+E310110,Aerodrome runway construction
+E310120,Asphalt surfacing
+E310130,Bridge construction or repair
+E310140,Civil engineering - road or bridge construction
+E310150,Parking lot construction - except buildings
+E310160,Paving material - hot mix bitumen
+E310170,"Road construction, repair or sealing"
+E310903,Cable laying
+E310904,"Distribution line, electricity or communication, construction and maintenance"
+E310907,Canal construction
+E310908,Water reticulation construction and maintenance
+E310910,Civil engineering - non building construction nec
+E310913,Dam construction
+E310917,Dredging - harbours or rivers
+E310920,"Electrical machinery, heavy, installation - on- site assembly"
+E310923,Furnace construction - for industrial plants from prefabricated components
+E310927,Golf course construction
+E310930,Harbour work construction - except buildings
+E310933,Heavy machinery installation
+E310937,Irrigation system construction
+E310940,Jetty construction
+E310943,Mine site construction nec
+E310947,Non-building construction nec
+E310950,Utility pipeline construction and maintenance - except special trade repair service
+E310953,Sewerage or stormwater drainage network construction or maintenance
+E310957,Sports field construction
+E310960,Swimming pool construction - concrete or fibre glass - below ground
+E310963,Transmission tower construction and maintenance
+E310967,Tunnel construction
+E310970,Utility network construction and maintenance services
+E310973,Water tank construction - except structural steel
+E310980,Communications network construction and maintenance services
+E321110,Land development or subdivision (excluding buildings construction)
+E321120,Land development or subdivision (excluding construction)
+E321210,Blasting services - site preparation
+E321220,Demolition of buildings or other structures
+E321225,Earthmoving plant and equipment hiring with operator
+E321230,Earthmoving services
+E321240,Excavating services
+E321250,Explosive laying
+E321260,Land clearing - except rural
+E321270,Site preparation
+E321280,Trench digging
+E322110,Concrete cutting
+E322120,Concrete pumping
+E322130,Concreting services
+E322140,Footpath construction - concrete
+E322150,Foundation construction - concrete
+E322160,Kerb and guttering construction - concrete
+E322210,Bricklaying services
+E322215,Concrete block laying
+E322220,Stonework on construction projects
+E322310,Metal roof fixing
+E322315,"Roof painting, spraying or coating"
+E322320,Roof tiling
+E322330,Roofing material installation - except insulation materials
+E322405,Steel fixing services
+E322410,Storage tank erection - metal
+E322420,Structural steel erection
+E322430,Welding work on construction projects
+E323110,Drainlaying (construction) including cleaning or repairing - except sewerage or stormwater drainage networks
+E323120,Gas plumbing
+E323130,Guttering installation or repair - roof
+E323140,Hot water system installation
+E323150,Plumbing - except marine
+E323160,Septic tank installation
+E323170,Solar hot water system installation
+E323210,Computer cable installation (within buildings)
+E323220,Electrical services
+E323222,Electrical repairs and maintenance to garage or automatic doors
+E323223,Electrical traffic signal installation or maintenance
+E323225,Electrician
+E323230,"Pay TV installation - antennae, decoder"
+E323240,Telecommunication line construction and maintenance (within buildings)
+E323250,Television antennae installing
+E323310,Air conditioning equipment installation - except motor vehicles
+E323315,Freezer room construction
+E323320,Heating equipment installation - except industrial furnaces
+E323330,Refrigeration equipment installation
+E323340,Ventilation equipment installation nec
+E323410,Alarm system installation
+E323420,Fire sprinkler installation
+E323430,Security system installation
+E323440,Video surveillance system installation
+E323910,Awning installation or repair
+E323920,Blind installation or repair
+E323925,Building installation services nec
+E323930,Curtain installing
+E323932,Door installation - except on-site joinery
+E323935,"Elevator, escalator or lift installation"
+E323940,"Flywire installation - screens, shutters or blinds"
+E323950,Insulation material installation
+E323955,"Roller doors, shutters or grilles installation"
+E323960,Window tinting service - buildings
+E324110,Ceiling services
+E324120,Plasterboard fixing or finishing
+E324130,Plastering
+E324210,"Cabinet making, joinery - on-site fabrication of built-in furniture or other joinery"
+E324220,"Carpentry, joinery - on construction projects"
+E324230,Flooring fixing - wooden
+E324240,Joinery work on construction projects
+E324250,Shop fitting manufacturing or installation
+E324310,Carpet laying
+E324320,Floor covering laying nec
+E324330,Floor sanding
+E324340,Tiling services - floor and wall
+E324410,House painting
+E324415,Interior painting and decorating
+E324420,Painting of buildings or other structures
+E324430,Paper hanging
+E324440,Spray painting of buildings or other structures
+E324450,Wall papering
+E324510,Glazing services
+E324520,Window frame installation
+E324530,Window installation
+E324540,Window insulation fixing
+E329110,Fence construction - except agricultural
+E329120,Garden drainage systems installation
+E329130,Garden sprinkler system installation - except irrigation systems
+E329140,Landscape construction
+E329150,Landscaping and property maintenance service
+E329160,Lawn construction
+E329170,Rockery work
+E329205,Construction machinery (excluding earthmoving equipment) hiring with operator
+E329210,Crane hiring or leasing - with operator
+E329220,Heavy plant hiring - with operators
+E329910,Abrasive blasting
+E329920,Construction services - all trades subcontracted
+E329930,Construction services nec
+E329931,Drilling contractor - construction nec
+E329935,Film or stage rigging
+E329936,Labouring on construction or building site nec
+E329937,"Lane or road marking service - roadways, carparks, asphalt surfaces, etc"
+E329938,Non-electric traffic signal or control installation
+E329939,Offal hole drilling
+E329940,Petrol bowser installation
+E329950,Road marking operation
+E329960,Sand or other abrasive blasting of building exteriors
+E329970,Scaffolding construction
+E329980,Steam-cleaning of building exteriors
+E329982,Utility network drilling service
+E329985,Water bore drilling and construction
+E329990,Waterproofing of buildings
+F331110,Wool wholesaling
+F331120,Woolstore operation
+F331210,Cereal grain wholesaling
+F331905,Farm produce or supplies wholesaling
+F331910,Feed wholesaling
+F331915,Flower wholesaling
+F331920,Hide wholesaling
+F331925,Leather wholesaling
+F331930,Livestock wholesaling
+F331935,Nursery stock - wholesale
+F331940,Orchard supplies wholesaling nec
+F331945,Seed wholesaling - farm or garden
+F331950,Skin wholesaling
+F331955,Tobacco leaf wholesaling
+F331960,"Tree or shrub, potted - wholesaling"
+F332110,Liquefied petroleum gas - dealing
+F332120,Oil or grease wholesaling - industrial or lubricating
+F332130,Petroleum product wholesaling (including product ownership to retail point-of-sale)
+F332210,"Used cans, metal - recycling, collecting, sorting, dealing or wholesaling"
+F332220,Coal wholesaling
+F332230,Metal wholesaling
+F332240,Mineral wholesaling nec
+F332250,Precious metal scrap dealing
+F332260,Scrap metal merchandising
+F332270,"Steel bar, plate, rod, sheet or strip wholesaling"
+F332275,Steel wholesaling
+F332305,Adhesive wholesaling
+F332310,Agricultural chemical wholesaling
+F332315,Chemical wholesaling nec
+F332320,Cleaning product - chemical based wholesaling
+F332325,Detergent wholesaling
+F332330,Dyes wholesaling
+F332335,Fertiliser wholesaling
+F332340,Gas - industrial - wholesaling - except liquefied petroleum gas
+F332345,Liquefied gas wholesaling - except liquefied petroleum gas (LPG)
+F332350,Marine oil wholesaling
+F332355,Pesticide wholesaling
+F332360,"Plastic block, rod, plate or other unfinished form wholesaling"
+F332365,Plastic film sheeting wholesaling
+F333110,Timber wholesaling
+F333120,Veneer wood - dealing
+F333210,Bathroom and toilet fittings - wholesaling
+F333215,Gas fittings wholesaling
+F333220,Plumbing goods wholesaling nec
+F333905,Builder hardware dealing
+F333910,Building supplies wholesaling
+F333915,Garden tool wholesaling
+F333920,Hand tool wholesaling - including power operated
+F333925,Household good wholesaling nec
+F333930,Landscaping supplies - wholesaling
+F333935,Paint wholesaling
+F333940,Spa pool and hot tub wholesaling
+F333945,Swimming pool wholesaling - fibreglass - below ground
+F333950,Tiles - floor - wholesaling
+F333955,Wallpaper wholesaling
+F333960,Woodworking tool wholesaling
+F341110,Agricultural machinery or equipment wholesaling
+F341120,Construction machinery or equipment wholesaling
+F341130,Lawn mower wholesaling
+F341910,Dry cleaning machinery or equipment wholesaling
+F341920,Food processing machinery or equipment wholesaling
+F341930,Industrial machinery or equipment wholesaling nec
+F341940,Metalworking machinery wholesaling
+F341950,Milk processing machinery or equipment wholesaling
+F341960,Printing machinery or equipment wholesaling
+F341970,Textile working machinery or equipment wholesaling
+F341980,Welding machinery or equipment wholesaling - non-electrical
+F341990,Woodworking machinery or equipment wholesaling
+F349110,Medical equipment wholesaling nec
+F349120,Professional equipment wholesaling
+F349130,Scientific equipment wholesaling
+F349203,Computer consumables wholesaling nec
+F349207,Computer software wholesaling
+F349210,Computer wholesaling - including peripherals
+F349310,"Communication equipment, industrial, wholesaling"
+F349320,Telephone or telegraph equipment wholesaling
+F349405,"Business machine, equipment - wholesaling - except computing equipment or furniture"
+F349410,Electric fittings dealing
+F349415,Electrical distribution equipment wholesaling
+F349420,"Electrical equipment, industrial, wholesaling nec"
+F349425,Electrical measuring or testing instrument wholesaling
+F349430,Electronic equipment wholesaling - industrial
+F349435,Household appliance wholesaling
+F349440,Kitchen appliance wholesaling - household electric
+F349445,Light fitting wholesaling - electrical
+F349450,Photographic equipment wholesaling
+F349455,Radio or television part wholesaling
+F349460,Refrigeration equipment wholesaling - commercial
+F349465,Sound recording or reproducing equipment - industrial - wholesaling
+F349470,Sound reproducing equipment - household - wholesaling
+F349475,Stove or heater - household - wholesaling
+F349480,Television set wholesaling
+F349485,Welding equipment wholesaling - electrical
+F349910,Film wholesaling - photographic
+F349920,Fire protection equipment wholesaling
+F349930,"Furnace or furnace equipment, industrial, wholesaling - except electrical"
+F349940,Hairdresser equipment wholesaling
+F349945,Machinery and equipment wholesaling nec
+F349950,Weighing machinery wholesaling
+F350110,Car wholesaling
+F350210,"Bus, coach dealing"
+F350220,Commercial vehicle wholesaling
+F350230,Truck wholesaling
+F350305,Caravan or motorhome wholesaling
+F350310,Motorcycle or scooter wholesaling
+F350320,Trailer wholesaling
+F350410,Battery wholesaling - motor vehicle
+F350420,Motor vehicle accessory dealing - new
+F350430,Motor vehicle part dealing - new
+F350440,Tyres or tubes wholesaling
+F350510,Auto part recycling
+F350520,Motor vehicle part dealing - used
+F350530,Motor wrecking
+F360110,Grocery wholesaling - multiple product ranges
+F360210,Butcher - wholesaling
+F360220,"Meat wholesaling - except canned, cured or smoked poultry or rabbit meat"
+F360230,Poultry wholesaling
+F360240,Smallgood wholesaling
+F360310,Dairy product wholesaling
+F360320,Ice-cream wholesaling
+F360330,Milk wholesaling
+F360410,Fish wholesaling
+F360420,Seafood wholesaling - fresh or frozen
+F360510,"Fruit fresh - wholesaling, washing or packing"
+F360520,"Vegetable fresh - wholesaling, washing or packing"
+F360610,"Beer, wine and spirit wholesaling"
+F360615,Electronic cigarette and vape wholesaling
+F360620,Tobacco product wholesaling
+F360905,Confectionery wholesaling
+F360910,Egg and egg product wholesaling
+F360915,Food wholesaling nec
+F360920,Grocery wholesaling nec
+F360925,Health food wholesaling
+F360930,Nut wholesaling
+F360935,Potato crisp wholesaling
+F360940,Seafood wholesaling - canned
+F360945,Soft drink wholesaling
+F360950,Tea wholesaling
+F371105,Bag or sack wholesaling - textile
+F371110,Haberdashery wholesaling
+F371115,Household linen wholesaling
+F371120,Rope wholesaling
+F371125,Sail cloth wholesaling
+F371130,Soft furnishing wholesaling
+F371135,Tent wholesaling
+F371140,Textile product wholesaling nec
+F371145,Textile wholesaling nec
+F371150,Yarn wholesaling
+F371210,Clothing wholesaling
+F371220,Footwear wholesaling
+F372010,Cosmetic wholesaling
+F372020,Drug wholesaling
+F372030,Drug wholesaling - veterinary
+F372040,Medicine wholesaling
+F372050,Perfume wholesaling
+F372060,Soap wholesaling
+F372070,Toiletry wholesaling
+F373110,Bed wholesaling
+F373120,Floor covering wholesaling
+F373130,Furniture wholesaling
+F373140,Furniture wholesaling - office
+F373150,Mattress wholesaling
+F373210,Gemstone wholesaling
+F373220,"Gold, silver merchandising"
+F373230,Jewellery wholesaling
+F373240,Precious metal wholesaling
+F373250,Watch or clock part wholesaling
+F373260,Watch wholesaling
+F373310,"China, glassware and earthenware wholesaling"
+F373315,Cutlery wholesaling
+F373320,Kitchenware wholesaling
+F373410,Gymnasium equipment wholesaling
+F373420,Hobby equipment wholesaling - except tools
+F373430,Playground equipment wholesaling
+F373440,Skin diving equipment wholesaling
+F373450,Sporting good wholesaling - except clothing or footwear
+F373460,Toy wholesaling
+F373510,Book wholesaling
+F373520,Magazine wholesaling
+F373530,Newspaper wholesaling
+F373540,Periodical wholesaling
+F373610,Bag wholesaling - paper
+F373620,Paper product wholesaling nec
+F373630,Paper wholesaling
+F373640,Stationery wholesaling
+F373910,Artist supplies wholesaling
+F373915,E-liquid (for electronic cigarette and vape) wholesaling
+F373920,Firewood wholesaling
+F373930,Leather good wholesaling - except clothing or footwear
+F373940,Luggage wholesaling
+F373950,Pet food wholesaling
+F373960,Second hand good wholesaling nec
+F373970,Wholesale trade nec
+F373980,"Wholesaling, all products - excluding storage and handling of goods"
+F380005,Auction house or rooms operation
+F380010,Auctioning service - livestock
+F380020,Auctioning service nec
+F380030,Commodity broking
+F380040,Wool broker
+F380050,"Sales agent for manufacturer, wholesaler or retailer"
+F380060,Commission-based wholesaling
+G391110,Car dealer - new and/or used (including associated vehicle servicing)
+G391210,Go-karts retailing - motorised
+G391220,Motorcycle or scooter retailing (including associated servicing)
+G391310,Caravan dealing
+G391320,Horse float wholesaling or retailing
+G391330,Mobile home dealing
+G391340,Trailer dealing - except boat
+G392110,Battery retail - motor vehicle
+G392120,Car radio or cassette player - dealing or installation
+G392130,Motor accessory shop operation
+G392140,Motor vehicle parts retailing
+G392210,Tyre or tube for motor vehicle - retailing
+G392220,"Tyre or tube for motor vehicle, repairing - except retreading"
+G400010,Automotive fuel retailing (including associated vehicle servicing)
+G400020,Liquefied petroleum gas - automotive - retailing
+G400030,Service station operation
+G411010,Dairy/superette operation
+G411020,General store operation - mainly grocery
+G411030,Grocery retailing
+G411040,Grocery supermarket operation
+G412110,"Butchery, butcher shop - retail"
+G412120,Fish retailing - fresh
+G412130,Poultry retailing - fresh
+G412140,Seafood retailing - fresh
+G412210,Fruit retailing - fresh
+G412220,Greengrocery operation - retail
+G412230,Vegetable fresh - retailing
+G412310,Liquor store
+G412320,Wine and spirit merchandising - retail
+G412905,Bakery retailing (without on-site baking)
+G412910,Biscuit retailing
+G412915,Bread retailing
+G412920,Bread vending
+G412925,Cake retailing
+G412930,Confectionery retailing
+G412935,Delicatessen
+G412940,Health food retailing
+G412945,Smallgood retailing
+G412950,Specialised food retailing nec
+G421110,Antique reproduction furniture retailing
+G421120,Awning retailing
+G421130,Bed retailing
+G421140,Blind retailing
+G421150,Furniture retailing
+G421210,Carpet retailing
+G421220,Floor covering retailing
+G421230,Tiles - floor - retailing
+G421310,"China, glassware and earthenware retailing"
+G421315,Cutlery retailing
+G421320,Kitchenware retailing
+G421330,"Plastic container, household, retailing"
+G421340,Silverware retailing
+G421410,Curtain retailing
+G421420,Dressmaking supply retailing
+G421430,Fabrics textile retailing
+G421440,Haberdashery retailing
+G421450,Household textile retailing
+G421460,Linen retailing - household
+G421470,Soft furnishing retailing
+G421480,Yarn retailing
+G422105,Barbecue retailing
+G422110,"Camera, accessory retailing"
+G422115,Domestic appliance retailing
+G422120,Gas heating appliance - household - retailing
+G422125,Heating equipment - household electric - retailing
+G422130,Household appliance retailing
+G422135,Photographic equipment retailing
+G422140,Pocket calculator retailing - electronic
+G422145,Sound reproducing equipment - household - retailing
+G422150,Telephone retailing including mobile phone
+G422155,Television antennae retailing
+G422160,Television set retailing
+G422165,Video camera retailing
+G422203,Computer peripherals retailing
+G422207,Computer game console retailing
+G422210,Computer retailing
+G422220,Computer software retailing
+G422910,Electric light fittings retailing
+G422920,Electrical goods retailing nec
+G422930,Electronic goods retailing nec
+G423105,Home improvement goods trading - multiple product ranges
+G423110,Bathroom and toilet fitting - retailing
+G423115,Building supplies retailing nec
+G423120,Garden tool retailing
+G423130,Hardware retailing - domestic
+G423140,Lawn mower retailing
+G423150,Paint retailing
+G423160,"Tool, household, retailing"
+G423170,Wallpaper retailing
+G423210,Fertiliser retailing
+G423220,Garden ornament retailing
+G423230,Garden supply retailing nec
+G423240,Landscaping supply - retailing
+G423250,Nursery - retail
+G423260,Pesticide retailing
+G423270,"Plant, garden - retailing"
+G423280,Seed retailing - garden
+G423290,Shrub or tree retailing
+G424110,Bicycle and accessory retailing
+G424120,Camping equipment retailing
+G424130,Firearm retailing
+G424140,Gymnasium equipment retailing
+G424150,Skin diving equipment retailing
+G424160,Sporting equipment retailing - except clothing or footwear
+G424210,"Compact disc, cassette tape and record retailing"
+G424220,Computer game retailing
+G424230,Video cassette or disc retailing
+G424310,Doll retailing
+G424320,Game retailing
+G424330,Hobby equipment and supply retailing
+G424340,Toy retailing
+G424410,Book retailing
+G424415,Religious book retailing
+G424420,Magazine retailing
+G424430,Newspaper retailing
+G424510,Boat dealing
+G424520,Boat trailer dealing
+G424530,Jetski retailing
+G424540,Marine accessory retailing nec
+G424550,Marine equipment retailing
+G424560,Outboard motor retailing
+G424570,Trailer dealing - boat
+G425105,Baby wear retailing
+G425110,Clothing accessory retailing
+G425115,Clothing retailing
+G425120,Leather clothing retailer
+G425125,Lingerie retailing
+G425130,Menswear retailing
+G425135,Millinery retailing
+G425140,Protective clothing retailing
+G425145,Womenswear retailing
+G425150,Work clothing retailing
+G425210,Footwear retailing
+G425220,Shoe retailing
+G425310,Jewellery retailing - except direct selling
+G425320,Watch retailing
+G425910,Handbag retailing
+G425920,Leather good retailing - except apparel
+G425923,Personal accessories retailing nec
+G425927,Sunglass retailing
+G425930,Travel good retailing
+G425940,Wig retailing
+G426010,Department store operation
+G427110,Chemist shop operation - pharmacy
+G427120,Cosmetic retailing
+G427125,Health supplement retailing
+G427130,Perfume retailing
+G427140,Pharmacy operation - retail
+G427150,Toiletry retailing
+G427210,Artist supply retailing
+G427220,Stationery retailing
+G427310,Antique retailing
+G427320,Coin dealing
+G427330,Pawnbroking
+G427340,Second hand book retailing
+G427350,Second hand clothing retailing
+G427360,Second hand furniture retailing or auctioning - except pawnbroking
+G427370,"Second hand goods retailing - except motor vehicle, pawnbroking"
+G427380,Second hand jewellery retailing - except pawnbroking
+G427390,Stamp dealing - except pawnbroking
+G427410,Dried flower retailing
+G427420,Florist operation - retail
+G427430,Flower retailing
+G427903,Adult shop operation
+G427907,Animal retailing - live
+G427910,Art dealing
+G427913,Art gallery operation - retail
+G427917,Clock retailing
+G427920,Coal retailing
+G427923,Craft material and supply retailing
+G427927,Discount store operation
+G427930,Disposal store - new goods
+G427933,Firewood cutting and retailing
+G427935,"Electronic cigarette, vape and e-liquid retailing"
+G427937,General store operation - other than mainly grocery
+G427940,Gift shop nec
+G427943,Greeting card retailing
+G427947,Ice retailing
+G427950,Musical instrument retailing
+G427953,Pet shop
+G427957,Religious good retailing (excluding religious books)
+G427960,Retailing nec
+G427962,Solid fuels retailing nec
+G427963,Souvenir retailing
+G427967,Spa pool and hot tub retailing
+G427970,Swimming pool chemical retailing
+G427973,Swimming pool retailing
+G427977,Tobacco product retailing
+G427980,Variety store operation
+G431010,Book retailing - catalogue selling
+G431020,"Direct selling - cosmetic, perfume and toiletry"
+G431030,Direct selling - jewellery
+G431040,Direct selling nec
+G431060,Milk vendor - home delivery service
+G431070,Network marketing nec
+G431080,Telemarketing - excluding goods sales and handling
+G431085,"Retailing, all products - excluding storage and handling of goods"
+G431090,Vending machine operation (except leasing)
+G432010,Commission selling service
+G432020,Yacht broking
+H440005,Backpacker accommodation
+H440010,Boarding house
+H440015,Caravan park and camping ground
+H440020,Convention centre operation (mainly accommodation)
+H440025,Guest house operation
+H440030,Holiday house and flat operation
+H440035,Hosted accommodation
+H440040,Hotel operation
+H440045,Motel operation
+H440050,Motor inn operation
+H440055,Private hotel - short term accommodation
+H440060,Ski-lodge operation
+H440065,Student residence operation - except boarding schools
+H440070,Youth hostel operation
+H451110,Cafe operation
+H451120,Coffee shops
+H451130,Restaurant operation
+H451205,"Chicken, takeaway and retailing - cooked and ready to eat"
+H451210,Cut lunch retailing
+H451215,Ethnic food takeaways
+H451220,Fast food retailing
+H451225,Fish and chip retailing - takeaway
+H451230,Hamburger retailing
+H451235,Ice cream retailing
+H451240,Pizza takeaway - retailing
+H451250,Soft drink retailing
+H451260,Takeaway food retailing
+H451270,Mobile coffee van
+H451310,Airline catering service
+H451320,Catering service
+H452010,Bar - licensed
+H452020,Hotel operation - mainly drinking place
+H452030,Nightclub operation
+H452040,Pub operation - mainly drinking place
+H452050,Tavern operation - mainly drinking place
+H452060,Wine bar operation - mainly drinking place
+H453010,Club - hospitality
+H453020,Club - licensed
+H453030,Licenced club operation
+I461010,Delivery service - road
+I461020,Furniture removal service - road
+I461030,Log haulage service - road
+I461040,Road freight transport service
+I461050,Taxi truck service
+I461060,Towing service - motor vehicle
+I461070,Truck hire service - with driver
+I462110,"Bus, coach transport - long distance"
+I462120,Charter bus service - long distance
+I462130,Rural bus service
+I462210,Airport bus service
+I462220,"Bus, coach transport - short distance"
+I462230,Charter bus service - short distance
+I462240,School bus service
+I462250,Tramway passenger transport service
+I462310,Hire car service - with driver
+I462320,Road passenger transport nec
+I462330,Taxi cab service
+I462340,Taxi organisation (excluding those that provide taxi services)
+I471010,Freight transport service - railway
+I472010,Monorail operation
+I472020,Passenger transport service - railway
+I481010,"Freight transport service - river, harbour or lake"
+I481020,Inland water transport (except passenger only)
+I481030,Water transport (vessels 45 metres length and under or 500 tonnes displacement and under)
+I481040,Water transport (vessels over 45 metres length and 500 tonnes displacement)
+I481050,"Ship charter, lease or rental (vessels over 45 metres length and 500 tonnes displacement - with crew)"
+I481060,"Ship charter, lease or rental (vessels under 45 metres length or 500 tonnes displacement - with crew)"
+I481070,Ship management service (vessels over 45 metres length and 500 tonnes displacement)
+I481080,Ship management service (vessels under 45 metres length or 500 tonnes displacement)
+I482010,Ferry operation (vessels over 45 metres length and 500 tonnes displacement)
+I482020,Ferry operation (vessels under 45 metres length or 500 tonnes displacement)
+I482030,Inland water transport (passenger only)
+I482040,Ocean cruise service
+I482050,"Passenger ferry operation - river, harbour or lake"
+I482060,Vehicular ferry or punt operation - in inland waters
+I482070,Water taxi service
+I490002,"Air operations under CAA Rules parts 101, 103 and 104"
+I490004,Air operations under CAA Rules part 133
+I490006,Air operations under CAA Rules part 135
+I490008,"Air transport under CAA Rules part 121, 125, or 129"
+I490010,"Aircraft charter, lease or rental - with crew"
+I490020,Airline operation - scheduled domestic
+I490030,Airline operation - scheduled international
+I490040,Freight transport service - non scheduled air transport
+I490050,Freight transport service - scheduled domestic air transport
+I490060,Freight transport service - scheduled international air transport
+I501001,Boat hiring (with crew)
+I501005,Cable car operation
+I501010,Chair lift operation
+I501013,Charter fishing boat operation
+I501015,"Cruise operation - river, harbour or lake, with or without restaurant facilities"
+I501017,Hang glider operation
+I501020,Four wheel drive tour operation - with driver
+I501023,Harbour sightseeing tour operation
+I501025,Game fishing tours
+I501030,Helicopter charter
+I501035,Hot air ballooning operation
+I501040,Motor cycle tour operation - with driver
+I501043,Parachuting and sky-diving operations
+I501045,Railway operation - by historical railway societies or as a tourist attraction
+I501050,Whale watching tour
+I501055,Air operations under CAA Rules part 115
+I501060,Scenic and sightseeing transport (excluding aviation)
+I502110,Pipeline operation
+I502910,Ski lift operation
+I502920,Ski tow operation
+I502930,Transport operation nec
+I510105,Letterbox delivery services - addressed mail
+I510108,Letterbox delivery services - advertising material
+I510110,Mail network operation
+I510120,Mailbox rental service
+I510130,Newspaper home delivery
+I510140,Post office operation
+I510145,Postshop operation
+I510150,Retail postal service
+I510210,Courier service
+I510213,Grocery home delivery service
+I510220,Messenger service
+I510230,Pick-up and delivery service nec
+I510235,Rural post pick-up and delivery service
+I510240,Letterbox delivery services (non-postal)
+I521110,Ship loading or unloading service
+I521120,Stevedoring
+I521205,Coal loader operation - sea transport
+I521210,Container terminal operation - marine cargo
+I521215,Freight terminal operation - sea transport
+I521220,Grain loader operation - sea transport
+I521225,Harbour service nec
+I521230,Marina operation
+I521235,Passenger terminal operation - sea transport
+I521240,Port operator
+I521245,Ship mooring service
+I521250,Wharf facility leasing
+I521255,Wharf provision
+I521910,"Diver - commercial, salvage"
+I521920,Navigation service - water transport
+I521930,Pilotage service
+I521940,Port service nec
+I521950,Salvage service - marine
+I521960,Service to water transport nec
+I521970,Towboat operation
+I521980,Shipping agency service including goods handling
+I522010,Air traffic control system operation
+I522020,Airport operation
+I522030,Airport service
+I529110,Customs agency or broker service (no goods handling)
+I529111,Customs agency or broker service including goods handling
+I529120,Export documentation preparation service (no goods handling)
+I529121,Export documentation preparation service including goods handling
+I529130,Import documentation preparation service (no goods handling)
+I529131,Import documentation preparation service including goods handling
+I529140,Shipping agency service (excluding handling of goods)
+I529210,Freight forwarding including goods handling - air
+I529211,Freight forwarding (no goods handling) - air
+I529220,Freight forwarding including goods handling - except by road or air
+I529221,Freight forwarding (no goods handling) - except by road or air
+I529230,Freight forwarding including goods handling - road
+I529231,Freight forwarding (no goods handling) - road
+I529240,Freight forwarding including goods handling nec
+I529241,Freight forwarding (no goods handling) nec
+I529910,Chauffeur service
+I529920,Container terminal or park facilities - for road freight
+I529930,Freight brokerage service (no goods handling)
+I529931,Freight brokerage service including goods handling
+I529940,Railway station operation
+I529950,Service to transport nec
+I529960,Services to road transport nec
+I529970,Toll bridge operation
+I529980,Toll road operation
+I529985,Transport and delivery vehicle scheduling service
+I529990,Weighbridge operation
+I530110,Grain elevator operation
+I530120,Grain silo operation
+I530130,Grain storage
+I530910,Bond store operation
+I530920,Cold store operation
+I530930,Controlled atmosphere store operation
+I530940,Cool storage of fruit and vegetables
+I530950,Furniture storage service
+I530960,Storage service nec
+I530970,Warehousing nec
+J541110,Newspaper publishing (except internet)
+J541120,Community newspaper publishing (except internet)
+J541205,Magazine publishing (except internet)
+J541207,Journal (including trade journal) publishing (except internet)
+J541210,Periodical publishing (except internet)
+J541220,Newsletter publishing (except internet)
+J541310,Book and other publishing (except internet)
+J541320,Technical manual publishing (except internet)
+J541410,Directory and mailing list publishing (except internet)
+J541910,Publishing nec
+J542005,Development of computer software for mass production
+J542010,Computer software publishing
+J551110,Film and video production
+J551120,Motion picture film or tape production
+J551130,Television film or tape production
+J551140,Video filming for commercial usage
+J551210,Film and video distribution
+J551220,Rental of film
+J551230,Video tape leasing - excluding hire to the public by video hire outlets
+J551310,Cinema operation
+J551320,Drive-in theatre operation
+J551403,Digital visual effects services
+J551404,Film and video production - digital special effects
+J551405,Film or video post-production services
+J551407,Motion picture and video activities nec
+J551410,Motion picture or video editing service
+J552110,Music publishing
+J552210,Sound recording studio operation
+J552220,Audio service (including sound engineering)
+J561010,Radio service
+J561020,Radio station operation
+J562110,Free-to-air television service
+J562120,Television station operation (free-to-air)
+J562205,Cable broadcasting network operation
+J562210,Pay TV operation
+J562220,Subscription television broadcasting service
+J570005,Internet news website operation (excluding web search portal)
+J570010,Internet publishing and broadcasting
+J570015,Digital content creation - own account
+J580110,"Communication service (wired) - including telephone, telex service"
+J580210,"Communication service (wireless) - including telephone service, except radio and TV broadcasting"
+J580220,Television relay station operation
+J580910,Telecommunications services nec
+J591010,Internet cafe (mainly internet service operation)
+J591020,Internet service provider
+J592105,Application hosting
+J592110,Computer time sharing service
+J592115,Cryptocurrency mining or blockchain services
+J592120,Data entry service
+J592130,Data processing service
+J592135,GPS data recording and analysis service
+J592140,Microfiche production service
+J592150,Web hosting
+J592205,Digital wallet service provider
+J592210,Information storage and retrieval service - except library
+J601010,Archival service
+J601020,Film archive service
+J601030,Library service
+J601040,Photographic archive service
+J601050,Sound archive service
+J602010,News collection for radio broadcasting
+J602020,News collection for television broadcasting
+J602030,News collection service nec
+J602040,Telephone-based recorded information service
+K621010,Central bank operation
+K621020,Financial regulatory service
+K622110,Bank operation
+K622120,Trading bank operation
+K622210,Building society
+K622220,Permanent building society operation
+K622310,Credit union
+K622905,Merchant banking operation
+K622910,Money market dealing
+K623010,Finance company operation
+K623020,Financing nec
+K623030,Non-depository financing
+K624010,Financial asset investing
+K624020,Friendly society operation
+K624030,Holding company operation - passive investment in subsidiary companies
+K624040,Investment - financial assets
+K624050,Investment company operation
+K624060,Investment operation - own account
+K624070,"Unit trust operation (investment type, in predominantly financial assets)"
+K631010,Life insurance provision
+K632110,Dental insurance provision
+K632120,Funeral benefit provision
+K632130,Health insurance
+K632210,Accident insurance provision
+K632220,Fire insurance provision
+K632230,General insurance
+K632240,Household insurance
+K632250,"Insurance - accident, house, marine and general"
+K632260,Motor vehicle insurance
+K632270,Third party insurance
+K632280,Travel insurance provision
+K632290,Workers' compensation insurance
+K633010,Pension fund separately constituted - operation
+K633020,Superannuation fund operation - separately constituted
+K641105,Asset trading of mortgages
+K641110,Commodity futures broking or dealing
+K641120,Financial asset broking service
+K641130,Stockbroking or trading
+K641905,Credit card administration service
+K641910,Executor service
+K641915,Financial service nec
+K641920,Fund raising nec - on a commission or fee basis
+K641925,Money changing service (non-bank)
+K641930,Mortgage broking service
+K641935,Nominee service
+K641940,Portfolio investment management service
+K641945,Service to finance and investment nec
+K641950,Share registry operation
+K641955,Superannuation fund management service - on a fee or commission basis
+K641960,Terminating building society operation
+K641965,Trustee service
+K641970,Valuation service - securities
+K642010,Actuarial service
+K642020,Claim assessment service
+K642030,Insurance agency service
+K642040,Insurance broking service
+K642050,Insurance consultant service
+K642060,Service to insurance nec
+L661110,"Car leasing, hiring or renting - except licensed hire cars or taxi cabs"
+L661120,Rental of motor vehicles
+L661905,Aircraft leasing
+L661910,"Bus, coach leasing"
+L661915,"Campervan leasing, hiring or renting"
+L661920,Caravan hiring
+L661925,Container hiring
+L661930,Horse trailer hiring
+L661935,Other transport equipment leasing
+L661940,"Rental of auxiliary transport equipment such as trailers, caravans"
+L661945,Rental of boats and yachts
+L661950,Ship leasing
+L661955,Trailer hiring
+L661960,"Truck leasing, hiring or renting"
+L662065,Farm animal investment (not actively farming)
+L662070,Holder investor farms and farm animals
+L662075,Investment - farm animals
+L662080,Racehorse leasing
+L662085,Sharemilking (non-milking participant)
+L663110,Agricultural machinery leasing
+L663120,Construction machinery leasing
+L663130,Crane hiring or leasing (without operator)
+L663210,"Rental of video tape, DVD or games"
+L663220,"Video tape, DVD and game hiring to general public"
+L663903,Amusement machine hiring - including peripherals
+L663907,Bicycle hiring
+L663910,Camping equipment hiring
+L663913,Costume hiring
+L663917,Domestic appliance hiring
+L663920,Fishing tackle hiring
+L663922,"Function equipment renting, leasing or hiring"
+L663923,Furniture hiring
+L663925,Goods and equipment rental and hiring nec
+L663927,Hobby equipment hiring
+L663930,Household goods hiring
+L663933,Marquee and tent hiring
+L663937,Office machinery or equipment hiring
+L663940,Personal and household goods hiring nec
+L663943,Photographic equipment hiring
+L663947,Plant and equipment hiring or leasing without operator (excluding office machinery or equipment)
+L663950,Plant hiring and tending (of ornamental plants)
+L663953,Rental of personal and household goods
+L663957,Rental of theatrical equipment
+L663960,Ski equipment hire
+L663963,Sound reproducing equipment - household - hiring
+L663967,Sporting equipment hiring
+L663970,Television hiring
+L663973,Toy library (non-welfare service)
+L664010,Investment - non financial assets nec
+L664020,Investment - patents and copyrights
+L664030,Investment - tangible artistic work
+L664040,Leasing licences
+L664050,Non-financial asset investment
+L664060,Taxi cab plate leasing
+L664070,Copyright material leasing by franchisors
+L664072,Cryptocurrency investing - own account
+L664075,Franchisors nec
+L671110,Apartment renting or leasing - except holiday apartment
+L671120,"Building, residential - renting or leasing - other than holiday"
+L671130,Flat renting or leasing - except holiday flat
+L671140,House renting or leasing - except holiday house
+L671150,Investment - residential property
+L671160,Rental of residential property
+L671170,Residential property body corporate
+L671180,Residential property development (excluding construction)
+L671205,Building contractor - all construction sub-contracted
+L671210,"Building, non-residential - renting or leasing"
+L671220,Commercial property body corporates
+L671230,Investment - commercial property
+L671233,Non-residential property operation nec
+L671237,Non-residential property development (excluding construction)
+L671240,Property - non-residential - renting or leasing
+L671250,Rental of commercial property
+L671260,Shopping mall operation
+L672010,Real estate agency service
+L672020,Real estate auctioning service
+L672030,Real estate body corporate management service
+L672040,Real estate broking service
+L672050,Real estate management service
+L672060,Real estate rental agency service
+L672070,Time share apartment management service
+L672080,Valuing service - real estate
+M691005,Agricultural research activities
+M691010,Engineering research activities
+M691015,Food research institution operation - except university
+M691020,Industrial research institution operation - except university
+M691025,Medical research institution operation - except university
+M691030,Medical science research activities
+M691035,"Natural science - astronomy, chemistry, mathematics, physics, earth sciences research activities"
+M691040,Observatory operation - except university
+M691045,Scientific research institution operation - except university
+M691050,"Social science - economics, psychology, sociology research activities"
+M691055,Technology research activities
+M692110,Architect
+M692120,Architectural service
+M692130,Drafting service - architectural
+M692140,Landscape architecture service
+M692150,Town planning service
+M692210,Aerial photography service
+M692220,Aerial surveying service
+M692230,Engineering surveying service
+M692240,Land surveying service
+M692250,Map preparation service
+M692260,Mining surveying service
+M692270,Oceanographic surveying service
+M692280,Seismic surveying service
+M692290,Surveying service
+M692305,Boat designing service
+M692310,Building consultancy service
+M692315,Chemical engineering service
+M692320,Civil engineering consulting service
+M692325,Construction project management service - fee or contract basis
+M692330,Drawing office service - engineering
+M692335,Electrical engineering service - consulting
+M692340,Electronic engineering service - consulting
+M692343,Engineering consulting service nec
+M692345,Engineering drafting service
+M692347,Irrigation system design service
+M692350,Marine engineering service - consulting
+M692355,Mining engineering service
+M692360,Naval architecture service
+M692365,Product design service
+M692370,Quantity surveying service
+M692375,Traffic engineering service
+M692410,Calligraphy service
+M692420,Commercial art service
+M692430,Computer aided design nec
+M692435,Design services nec
+M692440,Fashion design service
+M692450,Graphic design service - for advertising
+M692460,Interior design or decorating consultancy service
+M692470,Signwriting
+M692480,Ticket writing
+M692505,Chemical analysis service nec
+M692510,Forensic science consulting service - other than pathology service
+M692515,Geological and geophysical consultancy service
+M692520,Inspecting (field) and advisory service (excluding meat inspection)
+M692525,Laboratory operation
+M692530,Metallurgical service
+M692535,Pollution monitoring service
+M692540,Scientific or technical service nec
+M692545,Seismic survey data analysis service
+M692550,Testing or assay service
+M692555,Wool testing service
+M693105,Advocate
+M693110,Barrister
+M693115,Conveyancing service - by qualified legal practitioner
+M693120,Conveyancing service - other than by qualified legal practitioner
+M693125,Legal aid service
+M693130,Legal service
+M693135,Notary
+M693140,Patent attorney
+M693145,Solicitor
+M693150,Title searching service
+M693210,Accountant
+M693220,Accounting service
+M693230,Auditing service
+M693240,Bookkeeping service
+M693250,Tax agent
+M694010,Advertising agency operation
+M694020,Advertising service
+M694030,Direct marketing service - advertising direct mail
+M694040,Internet advertising service
+M694045,Loyalty card administration service
+M694050,Power tool demonstration
+M694060,Sample distribution service
+M695010,Market research service
+M695020,Public opinion research service
+M696110,Corporate head office management services
+M696205,Business consultant service
+M696210,Business management service nec
+M696215,Entertainer/celebrity management service
+M696220,Environmental consultancy service - excluding laboratory service
+M696225,Fishing technical consultancy service
+M696230,Forestry and logging - management and consulting services
+M696235,Forestry ownership or management (excluding field operations)
+M696240,Human relations consultancy service
+M696245,Management consultancy service
+M696250,Management training service
+M696252,Marketing consultancy service
+M696255,Merchandising consultancy service
+M696260,Workplace health and safety consultancy service
+M696265,Operations research service
+M696270,Personnel management service
+M696272,Policy or business analyst
+M696275,Public affairs consultant service
+M696280,Public relations counselling service
+M696285,Sales advisory service
+M696290,Tariff consultancy service
+M696295,Tourism development consultancy service
+M696296,Management service to local government and other statutory bodies
+M696297,Management services nec
+M697010,Animal clinic or hospital operation
+M697020,Veterinary hospital
+M697030,Veterinary surgeon
+M699110,Commercial photography service
+M699120,"Photography service - except aerial photography, motion picture production or photographic film processing"
+M699130,Portrait photography service
+M699140,Street photography service
+M699150,Studio photography service
+M699160,"Video filming for private use including special events (birthdays, weddings etc)"
+M699905,"Cryptocurrency trading, brokering or exchange"
+M699910,Interpreting service
+M699912,Adjudication service (excluding court operation)
+M699915,Alternative dispute resolution service
+M699917,Arbitration service (excluding court operation)
+M699920,Mediation service - except court or personal relationship
+M699925,Restorative justice mediation service
+M699930,Meteorological service
+M699940,Migration consulting and service
+M699945,"Professional, scientific and technical services nec"
+M699950,Translation service
+M699960,Valuation service - except for real estate or securities
+M699970,Weather station operation
+M699975,Wool stocktaking service
+M700010,Computer consultancy service
+M700020,Computer programming service
+M700030,Internet consultancy service
+M700040,Internet website design service
+M700050,Development of customised computer software nec
+M700060,Systems analysis service
+N721110,Casting agency service
+N721120,Employment agency operation (no on hired staff)
+N721130,Employment placement service (candidates and contractors)
+N721140,Executive search service
+N721150,Model agency
+N721160,Outplacement service
+N721210,Employment services (on-hired staff - both office and non-office work - minimum 30% office work)
+N721220,Employment services (on-hired staff - non-office work - including up to 30% office work)
+N721230,Employment services (on-hired staff - office workers only)
+N721240,Nursing bureau
+N721245,"On-hired staff - nursing, medical, or dental"
+N721250,Temporary labour - non-office work - including up to 30% office work
+N721260,Temporary staff - office workers only
+N721270,Labour supply - hospitality workers
+N722010,Booking service (passenger transport and/or accommodation)
+N722020,Guide service operation nec
+N722030,Ticket selling - for non-resident airlines
+N722035,Tour arranging and assembling
+N722040,Tour guide service
+N722050,Tour retailing service
+N722060,Travel agency service
+N729110,Business administrative service
+N729115,Payroll processing service
+N729120,Secretarial service
+N729210,Desktop publishing service
+N729215,Document preparation services nec
+N729220,Typing service
+N729230,Word processing service
+N729310,Collection agency service
+N729320,Credit bureau or agency service
+N729410,Call centre operation
+N729420,Telephone answering service
+N729905,Administrative service nec
+N729910,Ticketing service nec
+N729920,Event booking agent
+N729930,"Event, recreational or promotional, management"
+N729935,In-store retail support services
+N729940,Meter reading service - electricity
+N729945,In-store demonstration service
+N729950,Meter reading service - gas
+N729955,Merchandising service
+N729960,Product display assembly
+N729970,Shelf restocking
+N729980,Theatre ticket agency operation
+N729990,Tourist information centre operation
+N731105,Chimney cleaning service
+N731110,Cleaning service
+N731115,Facilities management and cleaning service - contract nec
+N731120,House cleaning service
+N731123,Industrial cleaning service
+N731125,Office cleaning service
+N731130,Restaurant vat and cooker cleaning service
+N731135,Road sweeping - cleaning service
+N731140,Street sweeping - cleaning service
+N731145,Telephone cleaning service
+N731150,Window cleaning service
+N731210,Pest control service nec
+N731220,Weed control service
+N731310,Arboricultural service (tree doctor)
+N731320,Gardening service
+N731330,Lawn mowing service
+N731340,Property maintenance service (own account) nec
+N731350,Roadside and nature strip grass mowing/slashing service
+N731360,Turf management service
+N732010,Contract packing of groceries
+N732020,"Contract packing or filling - except fresh fruit, fresh vegetables, meat, poultry, fish or peat"
+N732030,Crating or packing service - for transport
+N732040,Wool dumping
+O751010,Central government administration
+O751020,"Central government, including crown entities and commission - operation nec"
+O751030,Crown entities and commissions operation nec
+O751040,Statutory review authority
+O753010,Local government administration nec
+O753020,Regulation enactment and enforcement (local government)
+O754010,Commission operation - judicial
+O754020,Court operation - judicial
+O754030,Tribunal operation
+O755210,Consulate operation - foreign government
+O755220,Embassy operation - foreign government
+O755230,High Commission operation
+O755240,Trade Commission operation - foreign government
+O760010,Defence force operation and administration
+O771110,Police service - government
+O771120,Security or intelligence organisation operation (government)
+O771205,Alarm system monitoring service
+O771210,Armoured car service
+O771215,Caretaking service
+O771220,Detective agency service
+O771225,Enquiry agency service
+O771230,Locksmith servicing
+O771235,Night watchman service
+O771240,Protection service
+O771245,Security service
+O771250,Surveillance system monitoring service
+O771310,Bush fire brigade service
+O771320,Civil defence operation
+O771330,Emergency service - other than defence and police
+O771340,Fire fighting service - except forest
+O771350,Fire fighting service - forest
+O771360,Fire prevention service
+O771410,Corrective centre
+O771420,Juvenile detention centre operation
+O771430,Periodic detention centre operation
+O771440,Prison operation
+O771450,Remand centre operation
+O771910,"Border surveillance (land, sea, or air)"
+O771920,Public order and safety services nec
+O771930,Traffic management or control services - except police
+O772003,Food inspection service
+O772007,Licensing and permit issuance
+O772010,Meat inspection services
+O772012,Regulating casino and other gambling
+O772013,Regulating food and agricultural standards
+O772017,Regulating qualification standards
+O772020,Vehicle testing station operation
+O772030,Weights and measures regulation
+P801010,"Kindergarten, pre-school operation - except child minding centre"
+P801020,Pre-school centre operation - except child minding centre
+P802105,Intermediate school operation
+P802110,Primary school operation
+P802120,School - primary school
+P802210,"School, high school - secondary"
+P802220,Secondary school or college operation
+P802310,Correspondence school operation nec
+P802320,School - combined primary and secondary
+P802410,Special school education
+P802420,"Special school operation (for disabled children, not providing normal primary or secondary school education)"
+P810110,Business college operation
+P810120,Modelling school
+P810130,Nursing college operation nec
+P810140,Polytechnic operation
+P810150,Tertiary institutional education - except polytechnics and universities
+P810160,Theological college or seminary operation
+P810170,Workplace training
+P810180,Apprenticeship coordinators employing apprentices
+P810210,Teachers college operation nec
+P810220,University operation
+P821103,Diving school operation
+P821106,Group health and fitness trainer
+P821107,Riding school operation
+P821109,Sports and physical recreation instruction nec
+P821110,"Sports coaching service - boating, yachting"
+P821113,Sports coaching service - cricket
+P821117,Sports coaching service - rugby
+P821120,Sports coaching service - rugby league
+P821123,Sports coaching service - community sport nec
+P821127,Sports coaching service - cycling
+P821130,Sports coaching service - golf
+P821133,Sports coaching service - horse riding
+P821137,Sports coaching service - motorcycling
+P821140,Sports coaching service - motor racing
+P821143,Sports coaching service - netball
+P821147,Sports coaching service - professional sport nec
+P821150,Sports coaching service - skiing (snow)
+P821153,"Sports coaching service - softball, baseball"
+P821157,"Sports coaching service - squash, badminton"
+P821160,Sports coaching service - swimming
+P821163,Sports coaching service - tennis
+P821167,Sports coaching service - water skiing
+P821170,Outdoor education nec
+P821175,Yoga instruction service
+P821210,Art school operation
+P821215,Arts education nec
+P821220,Sculpture instruction service
+P821225,Dance (including ballet) teaching
+P821230,Drama school operation
+P821240,Music school operation nec
+P821250,Music teaching
+P821905,"Adult, community, and other education nec"
+P821910,Driving school operation - motor vehicle
+P821920,Flying school
+P821925,Home economics and personal management instruction
+P821930,Tutoring service - academic
+P821940,Social and interpersonal skill training
+P821950,"Study skill, career development and job search training"
+P822010,"Curriculum development, educational"
+P822020,Educational support services nec
+P822030,"Test and exam development and evaluation, educational"
+P822040,"Test and exam service, educational (including marking)"
+Q840110,Geriatric hospital operation
+Q840120,Hospitals (excluding psychiatric and continuing geriatric care)
+Q840130,Surgical hospital - day surgery
+Q840210,Psychiatric hospital and psychiatric service nec
+Q851110,Clinic - medical - general practice
+Q851120,General practitioner - medical
+Q851205,Allergist
+Q851210,Anaesthetist
+Q851215,Consultant physician
+Q851220,Dermatologist
+Q851225,Gynaecologist
+Q851230,"Medical service, specialist nec"
+Q851235,Neurologist
+Q851240,Obstetrician
+Q851245,Ophthalmologist
+Q851250,Orthopaedic specialist
+Q851255,Otorhinolaryngologist
+Q851260,Paediatrician
+Q851265,Plastic surgeon
+Q851270,Psychiatrist
+Q851275,Rheumatologist
+Q851280,Specialist medical practitioner nec
+Q851285,Surgeon nec - medical
+Q851290,Thoracic specialist
+Q851295,Urologist
+Q852005,Diagnostic imaging service
+Q852010,Medical laboratory service
+Q852020,Pathologist
+Q852030,Pathology laboratory operation
+Q852040,Radiographer
+Q852050,Radiologist
+Q852060,Radiology service
+Q852070,X-ray clinic operation
+Q853110,Clinic - dental
+Q853120,Dental hospital operation
+Q853130,Dental surgeon
+Q853140,Endodontist
+Q853150,Oral pathologist
+Q853160,Orthodontist
+Q853170,Paedodontist
+Q853180,Periodontist
+Q853190,Prosthodontist
+Q853210,Contact lens dispensing
+Q853220,Eye examination - optometrist
+Q853230,Optical dispensing
+Q853240,Optometrist
+Q853250,Orthoptist
+Q853260,Spectacle dispensing
+Q853310,Physiotherapy service
+Q853410,Chiropractor service
+Q853420,Osteopath service
+Q853905,Acupuncture service
+Q853906,Allied health service nec
+Q853907,Audiology service
+Q853910,Chiropodist
+Q853915,Clinical massage service
+Q853920,Clinical psychology service
+Q853925,Dietitian
+Q853930,Hearing aid dispensing
+Q853935,Herbalist
+Q853940,Homoeopath
+Q853945,Hypnotherapist
+Q853950,Massage therapy service
+Q853955,Midwifery service
+Q853957,Naturopathic service
+Q853960,"Nursing care (in patient's home, predominantly medical)"
+Q853965,Nursing service
+Q853967,Nurse practitioner service
+Q853970,Occupational therapy service
+Q853975,Paramedical service
+Q853980,Podiatry service
+Q853985,Psychologist
+Q853990,Speech therapy service
+Q859110,Aerial ambulance service
+Q859120,Ambulance service
+Q859910,Blood bank operation
+Q859920,Community health centre operation
+Q859930,Drug referral centre operation
+Q859940,Health service nec
+Q859950,Porter service (hospital)
+Q860110,Aged care
+Q860120,Nursing home operation
+Q860130,Rest home operation
+Q860140,Retirement village operation - with rest home or hospital facilities
+Q860910,Children's home operation
+Q860920,Crisis care accommodation operation
+Q860930,Crisis care accommodation operation (excluding psychiatric)
+Q860940,Hospice operation
+Q860950,Residential care service nec
+Q860960,Residential refuge operation
+Q871010,Child care service
+Q871020,Child minding centre
+Q879005,Adoption service
+Q879007,Family and personal dispute resolution service (excluding court operation)
+Q879010,Adult day care centre operation
+Q879015,Alcohol counselling service
+Q879020,Community and non-residential care service nec
+Q879025,Counselling service nec
+Q879030,Drug rehabilitation counselling service
+Q879035,Emergency housekeeping service
+Q879040,Emergency relief agency nec
+Q879043,Family welfare service nec
+Q879045,"Homecare service, personal (excluding nursing)"
+Q879050,Homeless welfare assistance - except accommodation
+Q879055,Marriage guidance service
+Q879060,Meals on wheels service
+Q879065,Parole or probationary service
+Q879070,Retirement village operation - without rest home or hospital facilities
+Q879073,Social assistance or welfare services nec
+Q879075,Welfare counselling service
+Q879080,Youth welfare service nec
+R891010,Art museum operation
+R891020,Historic house operation
+R891030,Museum operation
+R892110,Animal park
+R892120,Aquarium operation
+R892130,Aviary operation
+R892140,Zoological garden operation
+R892210,National park operation
+R892215,Nature reserve and conservation park operation nec
+R892220,Park and garden operation
+R892230,Picnic ground operation
+R892240,Recreation ground operation - except sporting
+R892250,Tourist cave operation
+R892260,Wild-life sanctuary operation
+R900110,Ballet company operation
+R900120,Circus operation
+R900130,Musical group operation
+R900140,Opera company operation
+R900150,Orchestra operation
+R900160,Performing artist operation
+R900165,Performing arts operation nec
+R900170,Theatrical company operation
+R900203,Actor
+R900207,Artist
+R900210,Author
+R900213,Cartoon character design
+R900217,Cartoonist
+R900220,Composer - music
+R900223,Costume design service
+R900227,Creative art
+R900230,Creative writer - own account
+R900233,Entertainer
+R900235,Journalist
+R900236,Model (including fashion model)
+R900237,Musician
+R900240,Painter - artist
+R900243,Playwright
+R900247,Poet
+R900248,Radio or television presenter
+R900250,Sculptor
+R900253,Service to the arts nec
+R900257,Set designing service
+R900260,Song writer
+R900263,Theatre lighting service
+R900267,Writer
+R900310,Concert hall operation
+R900320,Entertainment centre operation
+R900330,Music hall operation - excluding theatre restaurant operation
+R900340,Opera house operation
+R900350,Performing art venues
+R900360,Playhouse operation
+R900370,Theatre operation - except motion picture theatre
+R911110,Fitness centre
+R911120,Gymnasium operation
+R911202,Boating or yachting (participant)
+R911203,Sporting club or association - water sports (employing participants)
+R911205,Sporting club or association - cricket (employing participants)
+R911206,Cricket playing (participant)
+R911207,Athletics (participant)
+R911208,Cycling (participant)
+R911210,Golf playing (participant)
+R911211,Sporting club or association - golf (employing participants)
+R911212,Professional horse riding
+R911215,Motorcycling (participant)
+R911217,Sporting club or association - motorcycling (employing participants)
+R911218,Motor racing (participant)
+R911219,Sporting club or association - motor racing (employing participants)
+R911220,Netball playing (participant)
+R911221,Sporting club or association - netball (employing participants)
+R911222,Sporting club or association - rugby (employing participants)
+R911223,Rugby playing (participant)
+R911225,Sporting club or association - rugby league (employing participants)
+R911226,Rugby league playing (participant)
+R911228,Skiing (snow) (participant)
+R911230,"Softball, baseball playing (participant)"
+R911232,Sports playing nec (participant)
+R911235,Squash or badminton playing (participant)
+R911238,Swimming (participant)
+R911240,Tennis playing (participant)
+R911241,Sporting club or association - racket sports (employing participants)
+R911242,Water skiing (participant)
+R911245,Race horse riding nec
+R911246,Sporting club or association - athletics (no participants)
+R911247,Sporting club or association - basketball (no participants)
+R911248,Sporting club or association - boating or yachting (no participants)
+R911250,Sporting club or association - cricket (no participants)
+R911251,Sporting club or association - football (no participants)
+R911252,Sporting club or association - rugby (no participants)
+R911255,Sporting club or association - rugby league (no participants)
+R911258,Sporting club or association - community sport nec (no participants)
+R911260,Sporting club or association - cycling (no participants)
+R911261,Sporting club or association - cycling (employing participants)
+R911262,Sporting club or association - golf (no participants)
+R911265,Sporting club or association - horse riding
+R911268,Sporting club or association - motorcycling (no participants)
+R911270,Sporting club or association - motor racing (no participants)
+R911272,Sporting club or association - netball (no participants)
+R911275,Sporting club or association - sport nec (employing participants)
+R911278,Sporting club or association - skiing (snow) (employing participants)
+R911280,"Sporting club or association - softball, baseball (no participants)"
+R911282,"Sporting club or association - squash, badminton (no participants)"
+R911285,Sporting club or association - swimming (no participants)
+R911287,Sporting club or association - swimming (employing participants)
+R911288,Sporting club or association - tennis (no participants)
+R911290,Sporting club or association - water skiing (no participants)
+R911292,Sporting club or association - football (employing participants)
+R911293,Sporting club or association - basketball (employing participants)
+R911294,Basketball playing (participant)
+R911295,Football playing (participant)
+R911298,Sporting club or association - athletics (employing participants)
+R911305,Billiard saloon operation
+R911310,Bowling alley operation - tenpin
+R911315,Bowling green operation
+R911320,Golf course or practice range operation nec
+R911325,Netball court or facility operation
+R911330,Race course or track operation (excluding horse or dog racing) nec
+R911335,Skating rink operation
+R911340,Ski field operation
+R911345,Speedway operation
+R911350,Sports ground operation nec
+R911353,Sports venue operation nec
+R911355,Squash court operation
+R911360,Swimming pool operation
+R911365,Tennis court operation
+R911405,"Sports administration service - boating, yachting (no participants)"
+R911410,Sports administration service - cricket (no participants)
+R911415,Sports administration service - rugby (no participants)
+R911420,Sports administration service - rugby league (no participants)
+R911425,Sports administration service - community sport nec (no participants)
+R911430,Sports administration service - cycling (no participants)
+R911435,Sports administration service - golf (no participants)
+R911440,Sports administration service - horse riding
+R911445,Sports administration service - motorcycling (no participants)
+R911450,Sports administration service - motor racing (no participants)
+R911455,Sports administration service - netball (no participants)
+R911460,Sports administration service - professional sport nec (no participants)
+R911465,Sports administration service - skiing (snow) (no participants)
+R911470,"Sports administration service - softball, baseball (no participants)"
+R911475,"Sports administration service - squash, badminton (no participants)"
+R911480,Sports administration service - swimming (no participants)
+R911485,Sports administration service - tennis (no participants)
+R911490,Sports administration service - water skiing (no participants)
+R911491,Sports national governance bodies - cricket
+R911492,Sports national governance bodies - football
+R911493,Sports national governance bodies - motorcycling
+R911494,Sports national governance bodies - rugby
+R911495,Sports and service to sports - sport nec (no participants)
+R911496,Sports national governance bodies - rugby league
+R912110,Horse or dog racing club operation including national controlling bodies
+R912120,Race course or track operation - dog racing
+R912130,Race course or track operation - harness racing
+R912140,Race course or track operation (horse racing)
+R912910,Dog racing
+R912920,Dog training - for racing
+R912930,Horse racing - harness racing
+R912940,Horse racing nec
+R912950,Race horse driving - harness racing
+R912960,Race horse training - harness racing
+R912970,Race horse training nec
+R912980,Racing stables nec
+R913105,Amusement arcade centre
+R913110,Amusement centre
+R913120,Amusement park operation
+R913125,Flight or driving simulator operation - mainly amusement
+R913130,Merry-go-round operation
+R913905,Black water rafting
+R913910,Bungy jump operation
+R913915,Caving operation
+R913920,Dance hall or studio operation
+R913930,Dive boat tour
+R913940,Fishing guide service
+R913945,Fishing instruction service
+R913950,Guiding service operation - outdoor pursuits
+R913955,Jet boat tour operation
+R913960,Horse trekking operation
+R913970,Mountain guide services
+R913973,Outdoor adventure operation nec
+R913977,Recreational activity nec
+R913980,White water rafting tour - inland waters
+R913985,White water recreation activities
+R913990,Alpine recreation activities
+R920110,Casino operation
+R920210,Football pool operation
+R920220,Lottery agency operation
+R920230,Lottery operation
+R920910,Gambling services nec
+R920920,Totalisator agency operation
+S941110,Auto-electrical services
+S941120,Automotive servicing - electrical repairs
+S941130,"Car radio, CD or DVD-player installation and repair"
+S941210,Motor trimming
+S941220,Motor vehicle body repairing
+S941225,Motor vehicle restoration (interior and exterior only)
+S941230,Motor vehicle rust proofing
+S941240,Motor vehicle washing or cleaning service
+S941250,Panel beating
+S941260,Smash repairing
+S941270,Spray painting - motor vehicle
+S941280,Windscreen repairing
+S941910,Automotive servicing - general mechanical repairs
+S941920,Engine reconditioning - customised
+S941930,Motor vehicle clutch or brake repairing
+S941940,Motor vehicle conversion
+S941950,Motor vehicle radiator repairing
+S941955,Motor vehicle restoration nec
+S941960,Motorcycle or scooter repairing
+S941970,Muffler and exhaust system repairing - automotive
+S941980,Small engine - repair and servicing
+S941990,"Transmission or gearbox assembly, motor vehicle reconditioning or rebuilding"
+S942110,Gas appliance repair
+S942120,Household appliance repairing
+S942130,Repairing household electrical appliance
+S942140,Repairing household electronic equipment
+S942210,Computer maintenance service - including peripherals
+S942220,Measuring equipment repair and maintenance
+S942230,Medical and surgical equipment repair and maintenance
+S942240,Meteorological instrument repair and maintenance
+S942250,Navigation instrument (including radar and sonar) repair and maintenance
+S942260,Office machine repair and maintenance
+S942270,Optical instrument (including microscopes and telescopes) repair and maintenance
+S942280,Photographic (including camera) equipment repair
+S942290,Precision equipment calibration
+S942905,Brewery equipment maintenance
+S942910,Elevator repair and maintenance
+S942913,Equipment repair and maintenance nec
+S942915,Escalator repair and maintenance
+S942920,Fire extinguisher servicing
+S942925,Heavy plant maintenance operation
+S942927,Machinery repair and maintenance nec
+S942930,"Outboard motor, repair and servicing"
+S942935,Poker machine - electronic maintenance
+S942940,Repairing household non-electrical and personal good
+S942945,Saw sharpening service
+S942950,Shopping trolley repair and maintenance
+S942955,Supermarket trolley repair and maintenance
+S942960,Transport container repair or refurbishing
+S942965,Welding repair service
+S949105,Clothing repair
+S949110,Footwear repairing
+S949910,Key cutting or duplicating service
+S949920,Leather good repairing - except apparel
+S949930,Repair and maintenance nec
+S949940,Sports equipment repair
+S951105,Barber shop
+S951110,Beauty salon operation
+S951115,Epilation service
+S951120,Hair restoration service - except by registered medical practitioner or cosmetic
+S951125,Hair restoration service - cosmetic
+S951130,Hairdressing service
+S951135,Manicure service
+S951140,Pedicure service
+S951145,Solarium - sun tanning operation
+S951150,Sun tanning salon operation
+S951210,Weight reducing service
+S952010,Cemetery operation
+S952020,Crematorium operation
+S952030,Funeral directing
+S952040,Undertaking
+S953110,Baby napkin hire service
+S953120,Carpet cleaning service
+S953130,Clothes ironing service
+S953140,Curtain cleaning service
+S953150,"Dry cleaning service, agency"
+S953160,Laundry agency operation
+S953170,Laundry service
+S953180,Linen hire service
+S953190,Self-service laundry operation
+S953205,Digital photograph processing
+S953210,Photographic film processing
+S953310,Car park operation
+S953320,Parking station operation
+S953410,Brothel keeping
+S953420,Escort agency service
+S953425,Massage parlour operation
+S953430,Massage service nec
+S953440,Prostitution services
+S953905,Animal or pet boarding
+S953910,Astrology service
+S953915,Boarding kennels
+S953920,Child minding service - in the home
+S953925,Dog grooming
+S953930,Fortune telling service
+S953935,Genealogy service
+S953940,Introduction agency service
+S953942,Life coach
+S953945,Marriage celebrant
+S953950,Personal health and fitness trainer
+S953955,Personal service nec
+S953960,Tattooing and piercing service
+S953965,Turkish bath operation
+S953970,Personal stylist service
+S954010,Church operation
+S954020,Religious organisation operation - except units mainly engaged in the provision of goods or services which are primary to other industries
+S955110,Business association
+S955120,Professional association
+S955130,Trade association operation - except trade union
+S955210,Industrial union operation
+S955220,Trade union operation
+S955910,Animal shelter operation
+S955920,Automobile association operation
+S955930,"Club - not licensed, for promotion of community or sectional interest nec"
+S955940,Community based multifunctional activity nec
+S955950,Consumers association operation
+S955960,Interest group nec
+S955970,Political party operation
+S955980,Society operation (for the promotion of community or sectional interest) nec
+S955990,Welfare fund raising
+S960110,Domestic service nec - on a contract or fee basis
+S960120,Private household employing staff
