@@ -1,5 +1,5 @@
 archive
 out_business_descriptions/*.csv
 out_classifications/*.csv
-raw_company_names/*.csv
+raw_business_names/*.csv
 venv
