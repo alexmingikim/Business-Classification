@@ -1,9 +1,21 @@
+import os
 import csv
 import time
+import argparse
 import json
 from openai import OpenAI
 
 client = OpenAI()
+
+# ---- ARGUMENT PARSING (number of files to process) ----
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "--num-files",
+    type=int,
+    required=True,
+    help="Number of input CSV files to process (e.g. 900 for companies_0001–companies_0900.csv)",
+)
+args = parser.parse_args()
 
 # ---- BIC CODE INPUT FILE ----
 bic_file = "bic_codes.csv"
@@ -49,39 +61,41 @@ Return ONLY a single JSON object, nothing else, with exactly these keys:
 }
 """
 
-# ---- Loop over multiple files ----
-for i in range(51, 61):  # 0001 → 0005
-    company_file = f"out_business_description/business_descriptions_{i:04d}.csv"
-    output_file = f"out_classification/bic_classification_{i:04d}.csv"
+for i in range(1, args.num_files+1):
+    os.makedirs("out_classifications", exist_ok=True)
+    business_file = f"out_business_descriptions/business_descriptions_{i:04d}.csv"
+    output_file = f"out_classifications/bic_classification_{i:04d}.csv"
 
-    print(f"\n=== Processing {company_file} ===")
+    print(f"\n=== Processing {business_file} ===")
+
+    # ---- START TIMER ----
     start_time = time.time()
 
-    # ---- STEP 3: Load companies and descriptions ----
-    companies = []
-    with open(company_file, "r", encoding="utf-8") as f:
+    # ---- STEP 3: Load business names and descriptions ----
+    businesses = []
+    with open(business_file, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         next(reader, None)  # skip header row
         for row in reader:
             if row:
-                companies.append({
+                businesses.append({
                     "name": row[0],
                     "description": row[1]
                 })
 
-    # ---- STEP 4: Classify companies ----
-    print("Classifying companies (this may take a moment)...")
+    # ---- STEP 4: Classify businesses ----
+    print("Classifying businesses (this may take a moment)...")
 
     rows = []
 
     # simple cache for duplicate descriptions ⇒ same code
     desc_to_code = {}
 
-    for c in companies:
-        name = c["name"]
-        desc = c["description"]
+    for business in businesses:
+        name = business["name"]
+        desc = business["description"]
 
-        # If description is blank → cannot classify
+        # if description is blank → cannot classify
         if not desc or not desc.strip():
             primary_bic_code = "Could not be classified"
         else:
@@ -91,7 +105,7 @@ for i in range(51, 61):  # 0001 → 0005
             else:
                 prompt = (
                     instruction +
-                    "\n\nCompany Description:\n" + desc +
+                    "\n\nBusiness Description:\n" + desc +
                     "\n\nAvailable BIC Industries:\n" + bic_text
                 )
 
@@ -129,13 +143,17 @@ for i in range(51, 61):  # 0001 → 0005
         ])
 
     # ---- STEP 5: Save output CSV ----
+    # Column 1: Business Name
+    # Column 2: Business Description
+    # Column 3: BIC Code
+    # Column 4: BIC Description
     with open(output_file, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow([
-            "Company Name",
-            "Company Description",
-            "BIC Code",
-            "BIC Description"
+            "BUSINESS_NAME",
+            "BUSINESS_DESCRIPTION",
+            "BIC_CODE",
+            "BIC_DESCRIPTION"
         ])
         writer.writerows(rows)
 
