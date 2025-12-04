@@ -13,13 +13,13 @@ parser.add_argument(
     "--num-files",
     type=int,
     required=True,
-    help="Number of input CSV files to process (e.g. 900 for companies_0001–companies_0900.csv)",
+    help="Number of input CSV files to process (e.g. 900 for businesses_0001–businesses_0900.csv)",
 )
 args = parser.parse_args()
 
 for i in range(1, args.num_files+1):
     os.makedirs("out_business_descriptions", exist_ok=True)
-    input_file = f"raw_company_names/companies_{i:04d}.csv"
+    input_file = f"raw_business_names/businesses_{i:04d}.csv"
     output_file = f"out_business_descriptions/business_descriptions_{i:04d}.csv"
 
     print(f"\n=== Processing {input_file} ===")
@@ -27,7 +27,7 @@ for i in range(1, args.num_files+1):
     # ---- START TIMER ----
     start_time = time.time()
 
-    # ---- STEP 1: Load CSV and extract company names ----
+    # ---- STEP 1: Load CSV and extract business names ----
     business_names = []
     with open(input_file, "r", newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
@@ -38,16 +38,16 @@ for i in range(1, args.num_files+1):
     # ---- STEP 2: Prompt to get a description of the business model ----
     # We ask the model for JSON with a list of descriptions.
     instruction = """
-    You will receive a list of company names (one per line).
+    You will receive a list of business names (one per line).
 
     For each name, you must:
-    - Do web research to find the company's main business model.
-    - Focus on New Zealand companies first, then branch out to global sources.
+    - Do web research to find the main business model for the business.
+    - Focus on New Zealand businesses first, then branch out to global sources.
     - Write a short, factual business model description of up to 3 sentences.
 
     Special cases:
-    - If more than one distinct company exists with the exact same name, return the string:
-    "Multiple companies with the same name exist"
+    - If more than one distinct business exists with the exact same name, return the string:
+    "Multiple businesses with the same name exist"
     - If you cannot find any reliable information, return an empty string "".
     - Do not guess based only on the name.
 
@@ -55,16 +55,16 @@ for i in range(1, args.num_files+1):
 
     {
     "descriptions": [
-        "<description for company 1>",
-        "<description for company 2>",
+        "<description for business 1>",
+        "<description for business 2>",
         ...
     ]
     }
 
     Requirements for "descriptions":
-    - It MUST have exactly the same number of items as the number of company names I give you.
-    - Each item must correspond, in order, to the company at the same position in the input list.
-    - Do NOT include company names in the descriptions array, only the descriptions themselves.
+    - It MUST have exactly the same number of items as the number of business names I give you.
+    - Each item must correspond, in order, to the business at the same position in the input list.
+    - Do NOT include business names in the descriptions array, only the descriptions themselves.
     - No extra keys, comments, or text outside of the JSON.
     """
 
