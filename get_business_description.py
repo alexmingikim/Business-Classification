@@ -1,47 +1,74 @@
+import os
 import csv
 import time
+import argparse
+import json
 from openai import OpenAI
 
 client = OpenAI()
 
-# Loop through numbered CSVs
-for i in range(61, 71):  # 0001 → 0005
+# ---- ARGUMENT PARSING (number of files to process) ----
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "--num-files",
+    type=int,
+    required=True,
+    help="Number of input CSV files to process (e.g. 900 for companies_0001–companies_0900.csv)",
+)
+args = parser.parse_args()
+
+for i in range(1, args.num_files+1):
+    os.makedirs("out_business_descriptions", exist_ok=True)
     input_file = f"raw_company_names/companies_{i:04d}.csv"
-    output_file = f"out_business_description/business_descriptions_{i:04d}.csv"
+    output_file = f"out_business_descriptions/business_descriptions_{i:04d}.csv"
 
     print(f"\n=== Processing {input_file} ===")
 
+    # ---- START TIMER ----
     start_time = time.time()
 
     # ---- STEP 1: Load CSV and extract company names ----
-    company_names = []
+    business_names = []
     with open(input_file, "r", newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
             if row:
-                company_names.append(row[0])
+                business_names.append(row[0])
 
-    # ---- STEP 2: Prompt ----
+    # ---- STEP 2: Prompt to get a description of the business model ----
+    # We ask the model for JSON with a list of descriptions.
     instruction = """
-    You will receive a list of company names.
-    For each company, return a CSV with two columns:
-    1) Company Name
+    You will receive a list of company names (one per line).
 
-    2) Business Model Description (short, factual, 3 sentences)
-    Do a deep web search to find out what the main business model is, using only the given company name as the search term.
-    First, focus on doing a web search for New Zealand companies then branch out to global sources.
-    Consult multiple sources and business registries if needed.
-    If company names are duplicated, then return same description.
-    Based on web search, if more than one company exists with the same exact name given, then write: "Multiple companies with the same name exist" - no need to give the source.
+    For each name, you must:
+    - Do web research to find the company's main business model.
+    - Focus on New Zealand companies first, then branch out to global sources.
+    - Write a short, factual business model description of up to 3 sentences.
 
-    Do not guess based on company name.
-    Leave empty if no information found for the given company name.
+    Special cases:
+    - If more than one distinct company exists with the exact same name, return the string:
+    "Multiple companies with the same name exist"
+    - If you cannot find any reliable information, return an empty string "".
+    - Do not guess based only on the name.
 
-    Make sure to only output two columns.
-    Output ONLY valid CSV. No extra text.
+    Return ONLY valid JSON in this exact structure:
+
+    {
+    "descriptions": [
+        "<description for company 1>",
+        "<description for company 2>",
+        ...
+    ]
+    }
+
+    Requirements for "descriptions":
+    - It MUST have exactly the same number of items as the number of company names I give you.
+    - Each item must correspond, in order, to the company at the same position in the input list.
+    - Do NOT include company names in the descriptions array, only the descriptions themselves.
+    - No extra keys, comments, or text outside of the JSON.
     """
 
-    prompt = instruction + "\n\nCompanies:\n" + "\n".join(company_names)
+    prompt = instruction + "\n\nBusiness names:\n" + "\n".join(business_names)
 
     # ---- STEP 3: Call the model ----
     print("Sending request to AI model (this may take a moment)...")
@@ -51,11 +78,19 @@ for i in range(61, 71):  # 0001 → 0005
         input=prompt
     )
 
-    csv_output = response.output_text
+    raw_json = response.output_text
+
+    data = json.loads(raw_json)
+    descriptions = data["descriptions"]
 
     # ---- STEP 4: Save output CSV ----
+    # Column 1: Business Name (must match input exactly)
+    # Column 2: Business Description (from model)
     with open(output_file, "w", newline="", encoding="utf-8") as f:
-        f.write(csv_output)
+        writer = csv.writer(f)
+        writer.writerow(["BUSINESS_NAME", "BUSINESS_DESCRIPTION"])
+        for name, desc in zip(business_names, descriptions):
+            writer.writerow([name, desc])
 
     # ---- END TIMER ----
     elapsed = time.time() - start_time
