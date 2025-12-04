@@ -65,10 +65,10 @@ Note: The mapping from BIC to ANZSIC is Many-to-One
 
 ## Observed Performance and Improvement Areas
 
-- On a test run with ~8,300 businesses, the pipeline successfully classified **approximately 85%** of businesses.
+- On a run with ~8,300 businesses, the pipeline successfully classified **approximately 85%** of businesses.
 - Manual inspection suggests that where classifications were made, the vast majority were correct classifications.
 - Where classifications were incorrect or missing, common causes included:
-    - Ambiguous business names, making it difficult to determine the correct industry.
+    - Ambiguous business names which could represent multiple companies, making it difficult to determine the correct industry.
     - Multi-activity businesses (e.g. companies involved in both manufacturing and retail/wholesale), where the model classified only one aspect (typically either manufacturing or retail/wholesale, but not both).
 
 Potential improvements could include:

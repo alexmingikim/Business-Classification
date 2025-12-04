@@ -49,6 +49,7 @@ Your task:
 - If company descriptions are duplicated, then return the same codes.
 
 Rules:
+- Output MUST have exactly the same number of items as the number of company names provided.
 - Interpret the entire business model description as a whole to make the classification.
 - The code must only come from the provided lists.
 - Do NOT guess outside the list.
